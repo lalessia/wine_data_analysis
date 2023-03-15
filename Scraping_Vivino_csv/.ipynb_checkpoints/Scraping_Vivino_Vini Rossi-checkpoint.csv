@@ -1,0 +1,895 @@
+,name,grape,product rating,number ratings,product type,country of origin,price,bold_value,tannic value,sweet_value,acidic_value,food_pairing
+0,Fico Susumaniello,Susumaniello,4.8,27 ratings,Red wine,Italy,€24.90,75.8029%,36.3297%,31.3312%,24.9804%,Beef
+1,60 Sessantanni Old Vines Primitivo di Manduria,Primitivo,4.5,15957 ratings,Red wine,Italy,€22.90,69.663%,22.9146%,46.7775%,12.1954%,Beef
+2,Limited Edition 10 Vendemmie,Montepulciano,4.5,8892 ratings,Red wine,Italy,€24.30,50.6136%,36.753%,19.4152%,59.7082%,Beef
+3,Fanova Riserva,Primitivo,4.5,135 ratings,Red wine,Italy,€17.40,79.3122%,38.7329%,30.1212%,31.5391%,Beef
+4,Amarone della Valpolicella Classico,Blend,4.5,57 ratings,Red wine,Italy,€27.70,,,,,Beef
+5,Guerriero della Terra,Blend,4.5,41 ratings,Red wine,Italy,€24.90,59.5447%,34.6501%,39.1743%,39.3046%,Beef
+6,Nizza DOCG,Barbera,4.5,33 ratings,Red wine,Italy,€20,63.1152%,32.4413%,2.22174%,43.1739%,Beef
+7,Lucretia Chianti Classico Riserva,Sangiovese,4.5,33 ratings,Red wine,Italy,€26,52.5077%,69.8093%,3.2835%,67.7371%,Beef
+8,Primitivo Salento,Primitivo,4.4,2307 ratings,Red wine,Italy,€18.40,68.2177%,21.1277%,47.6472%,9.69191%,Beef
+9,Guerriero della Terra,Blend,4.4,1421 ratings,Red wine,Italy,€24.95,59.5447%,34.6501%,39.1743%,39.3046%,Beef
+10,Papale Linea Oro Primitivo di Manduria,Primitivo,4.4,1284 ratings,Red wine,Italy,€22.97,68.0155%,22.1586%,43.9273%,12.2711%,Beef
+11,60 Sessantanni Old Vines Primitivo di Manduria,Primitivo,4.4,873 ratings,Red wine,Italy,€23.65,69.663%,22.9146%,46.7775%,12.1954%,Beef
+12,60 Sessantanni Limited Edition Old Vines Primitivo di Manduria,Primitivo,4.4,445 ratings,Red wine,Italy,€27.30,69.4106%,19.7336%,45.9759%,11.1998%,Beef
+13,Liala Negroamaro,Negroamaro,4.4,249 ratings,Red wine,Italy,€23.86,82.4346%,30.3049%,40.8946%,26.0213%,Beef
+14,Cavolo Amarone della Valpolicella,Blend,4.4,238 ratings,Red wine,Italy,€29.89,80.3493%,24.82%,45.7862%,29.1761%,Beef
+15,Primitivo di Manduria,Primitivo,4.4,221 ratings,Red wine,Italy,€29.90,72.0229%,25.4231%,45.3349%,12.2387%,Beef
+16,Il Bacca Old Vine Primitivo di Manduria,Primitivo,4.4,172 ratings,Red wine,Italy,€26.90,68.7786%,26.5763%,43.1435%,13.4977%,Beef
+17,Valpolicella Ripasso Classico Superiore,Blend,4.4,155 ratings,Red wine,Italy,€18.90,66.9617%,38.5803%,33.5744%,26.9165%,Beef
+18,Amarone della Valpolicella,Blend,4.4,145 ratings,Red wine,Italy,€22,,,,,Beef
+19,Paradoxe,Blend,4.4,126 ratings,Red wine,France,€29.90,70.215%,51.281%,16.1654%,56.0027%,Beef
+20,L'Invidio Bolgheri Rosso,Blend,4.4,114 ratings,Red wine,Italy,€17.84,60.1444%,54.468%,9.33844%,46.36%,Beef
+21,Vrucara Nero d'Avola,Nero d'Avola,4.4,94 ratings,Red wine,Italy,€29.99,,,,,Beef
+22,Saracena Primitivo,Primitivo,4.4,92 ratings,Red wine,Italy,€12.20,69.0389%,21.306%,44.0903%,11.5374%,Beef
+23,Mirea Primitivo di Manduria,Primitivo,4.4,85 ratings,Red wine,Italy,€19.20,75.7944%,23.1862%,46.0661%,11.5096%,Beef
+24,I Colli Chianti Classico Riserva,Sangiovese,4.4,76 ratings,Red wine,Italy,€25.89,46.9102%,59.2303%,8.41216%,60.5772%,Beef
+25,Lodolaio Chianti Classico Riserva,Sangiovese,4.4,63 ratings,Red wine,Italy,€27.90,51.3399%,56.0718%,2.45419%,64.1281%,Beef
+26,Ventoux Silica,Blend,4.4,39 ratings,Red wine,France,€28.80,66.6473%,55.7554%,17.1575%,53.7446%,Beef
+27,Taurasi,Aglianico,4.4,29 ratings,Red wine,Italy,€24.90,,,,,Beef
+28,Nauna Primitivo - Negroamaro,Blend,4.4,29 ratings,Red wine,Italy,€18.20,84.5756%,42.3456%,32.0935%,26.7716%,Beef
+29,Iroso,Blend,4.4,28 ratings,Red wine,Italy,€26.50,50.5798%,34.0946%,2.34496%,37.0114%,Beef
+30,Brunello di Montalcino,Sangiovese,4.4,25 ratings,Red wine,Italy,€26.90,47.3318%,61.6828%,,,Beef
+31,Edizione Cinque Autoctoni,Sangiovese,4.3,63679 ratings,Red wine,Italy,€23.99,70.9731%,38.254%,30.4642%,31.5104%,Beef
+32,Cinquanta Collezione,Negroamaro,4.3,36354 ratings,Red wine,Italy,€18.30,,,,,Beef
+33,F Negroamaro,Negroamaro,4.3,1627 ratings,Red wine,Italy,€22.40,,,,,Beef
+34,Amaranta Montepulciano d'Abruzzo,Montepulciano,4.3,1270 ratings,Red wine,Italy,€16.70,44.2605%,38.0908%,15.1877%,61.08%,Beef
+35,Villa Donoratico Bolgheri,Blend,4.3,1206 ratings,Red wine,Italy,€28.90,66.296%,67.3818%,10.5871%,54.2465%,Beef
+36,Cubardi Primitivo,Primitivo,4.3,790 ratings,Red wine,Italy,€15.29,70.0622%,24.7168%,40.9466%,16.0506%,Beef
+37,Elena La Luna Barbera d'Alba,Barbera,4.3,709 ratings,Red wine,Italy,€19.90,62.434%,20.7051%,18.7754%,59.5645%,Beef
+38,Gran Reserva,Malbec,4.3,653 ratings,Red wine,Argentina,€26.10,,,,,Beef
+39,Harmonium Nero d'Avola,Nero d'Avola,4.3,632 ratings,Red wine,Italy,€27.50,83.9091%,44.8476%,28.109%,29.0225%,Beef
+40,Amarone della Valpolicella Classico,Blend,4.3,566 ratings,Red wine,Italy,€23.90,,,,,Beef
+41,62 Anniversario Primitivo di Manduria Riserva,Primitivo,4.3,562 ratings,Red wine,Italy,€27.20,69.8162%,21.1846%,44.7865%,11.1896%,Beef
+42,Stilio Primitivo di Manduria,Primitivo,4.3,558 ratings,Red wine,Italy,€11.50,70.0308%,21.6412%,45.8288%,13.204%,Beef
+43,La Groletta Amarone della Valpolicella,Blend,4.3,511 ratings,Red wine,Italy,€27.95,82.4305%,26.5422%,47.4486%,25.8193%,Beef
+44,8 Limited Edition,Montepulciano,4.3,396 ratings,Red wine,Italy,€24.40,66.0248%,43.9257%,11.2723%,37.5099%,Beef
+45,Eremo San Quirico Gold,Aglianico,4.3,391 ratings,Red wine,Italy,€18.95,84.5764%,36.89%,40.694%,22.8539%,Beef
+46,Amarone della Valpolicella Classico Lena di Mezzo,Blend,4.3,381 ratings,Red wine,Italy,€27.90,,,,,Beef
+47,Pecoranera Rosso,Nero di Troia,4.3,380 ratings,Red wine,Italy,€11.90,77.7367%,31.5385%,47.8988%,26.4048%,Beef
+48,Paralupi Appassimento,Blend,4.3,341 ratings,Red wine,Italy,€12.90,,,,,Beef
+49,Amarone della Valpolicella Classico,Corvina,4.3,329 ratings,Red wine,Italy,€26,84.8999%,26.0792%,44.3067%,26.3776%,Beef
+50,Antièri Susumaniello,Susumaniello,4.3,318 ratings,Red wine,Italy,€16.40,80.5437%,38.5272%,39.5557%,30.7997%,Beef
+51,Gocce Primitivo di Manduria,Primitivo,4.3,302 ratings,Red wine,Italy,€29.75,67.2456%,22.4184%,50.5186%,11.3384%,Beef
+52,Visellio Primitivo,Primitivo,4.3,287 ratings,Red wine,Italy,€24.99,68.7614%,25.1765%,42.8458%,13.3965%,Beef
+53,Primitivo di Manduria Riserva,Primitivo,4.3,279 ratings,Red wine,Italy,€11.99,69.6118%,20.7974%,44.1206%,17.5456%,Beef
+54,Primitivo,Primitivo,4.3,269 ratings,Red wine,Italy,€14.19,67.3913%,22.4108%,43.6897%,16.479%,Beef
+55,17 Primitivo Gioia del Colle,Primitivo,4.3,253 ratings,Red wine,Italy,€29.90,70.2069%,24.9263%,39.9504%,15.0855%,Beef
+56,Cosimo Varvaglione Collezione Privata Negroamaro del Salento,Negroamaro,4.3,245 ratings,Red wine,Italy,€29.80,76.7037%,36.9437%,29.2564%,32.1497%,Beef
+57,Sonetto Primitivo di Manduria Riserva,Primitivo,4.3,232 ratings,Red wine,Italy,€29.50,67.2201%,27.534%,39.724%,13.5343%,Beef
+58,Alchymia Primitivo,Primitivo,4.3,232 ratings,Red wine,Italy,€12.70,67.3408%,20.8559%,46.7771%,12.3789%,Beef
+59,Susu' Susumaniello,Susumaniello,4.3,220 ratings,Red wine,Italy,€11.40,76.705%,32.2948%,43.7405%,20.4377%,Beef
+60,Elegia Primitivo di Manduria Riserva,Primitivo,4.3,216 ratings,Red wine,Italy,€15.90,67.8678%,26.7458%,46.2798%,15.4155%,Beef
+61,San Giorgio Amarone della Valpolicella,Blend,4.3,176 ratings,Red wine,Italy,€19.99,,,,,Beef
+62,Borgo dei Guidi Sangiovese - Cabernet Sauvignon,Blend,4.3,160 ratings,Red wine,Italy,€19.90,65.2195%,40.8662%,26.1229%,,Beef
+63,Ilmorante Primitivo di Manduria,Primitivo,4.3,155 ratings,Red wine,Italy,€17,74.5738%,22.7912%,51.925%,11.1669%,Beef
+64,Altemura Primitivo di Manduria,Primitivo,4.3,154 ratings,Red wine,Italy,€20.70,67.5797%,28.3509%,39.8101%,19.1283%,Beef
+65,L’Arringatore,Blend,4.3,153 ratings,Red wine,Italy,€26.50,55.2245%,45.6655%,6.81133%,50.3032%,Beef
+66,Toppicello Nero di Troia,Nero di Troia,4.3,129 ratings,Red wine,Italy,€20.90,,,,,Beef
+67,Amarone della Valpolicella Classico Riserva,Blend,4.3,129 ratings,Red wine,Italy,€29.99,71.1875%,28.6719%,43.0156%,34.3438%,Beef
+68,Gelso d'Oro Nero di Troia,Nero di Troia,4.3,108 ratings,Red wine,Italy,€20.95,84.4944%,37.2695%,36.7208%,24.8084%,Beef
+69,Synthesis Malbec,Malbec,4.3,107 ratings,Red wine,Argentina,€29.10,64.5926%,32.9107%,18.3315%,37.0825%,Beef
+70,Nauna Primitivo - Negroamaro,Blend,4.3,105 ratings,Red wine,Italy,€18.30,84.5756%,42.3456%,32.0935%,26.7716%,Beef
+71,Amarone della Valpolicella,Blend,4.3,103 ratings,Red wine,Italy,€26.90,84.4986%,21.0632%,46.9949%,21.6672%,Beef
+72,Canace Nero di Troia,Nero di Troia,4.3,101 ratings,Red wine,Italy,€13.60,84.3022%,38.9155%,40.1889%,23.6558%,Beef
+73,Amarone della Valpolicella,Blend,4.3,99 ratings,Red wine,Italy,€24.95,83.9818%,29.809%,46.1759%,31.4133%,Beef
+74,Amarone della Valpolicella Classico,Blend,4.3,99 ratings,Red wine,Italy,€30,,,,,Beef
+75,Phi 20 Anni,Blend,4.3,96 ratings,Red wine,Italy,€26.80,63.3639%,43.1041%,17.949%,20.7592%,Beef
+76,Bicento,Aglianico,4.3,95 ratings,Red wine,Italy,€19.95,84.4002%,37.3451%,38.3584%,24.0577%,Beef
+77,17 Primitivo Gioia del Colle,Primitivo,4.3,94 ratings,Red wine,Italy,€20.90,70.2069%,24.9263%,39.9504%,15.0855%,Beef
+78,Casale Ciliani Malvasia - Primitivo,Blend,4.3,91 ratings,Red wine,Italy,€12.47,81.2967%,42.5%,35.2199%,23.1795%,Beef
+79,Primitivo,Primitivo,4.3,86 ratings,Red wine,Italy,€14.50,67.3706%,21.7524%,44.7362%,12.6561%,Beef
+80,L'Andrea,Sangiovese,4.3,83 ratings,Red wine,Italy,€24,59.0912%,45.9726%,7.0463%,40.5704%,Beef
+81,Rosso 17°,Primitivo,4.3,79 ratings,Red wine,Italy,€22.90,74.0469%,22.0566%,39.2864%,17.0785%,Beef
+82,Rovente Morellino di Scansano,Sangiovese,4.3,78 ratings,Red wine,Italy,€25.99,59.3137%,44.1636%,15.9735%,40.3216%,Beef
+83,El Cencio Rosso Verona,Blend,4.3,78 ratings,Red wine,Italy,€27.20,65.7488%,41.4167%,20.5263%,27.6636%,Beef
+84,Época Rdeće Rosso,Blend,4.3,74 ratings,Red wine,Slovenia,€26.30,,,,,Beef
+85,Lagrein Riserva,Lagrein,4.3,72 ratings,Red wine,Italy,€29.40,64.6014%,43.0971%,19.0659%,32.609%,Beef
+86,Robbione,Vernaccia,4.3,71 ratings,Red wine,Italy,€27.50,61.9815%,42.9835%,16.7153%,45.0844%,Beef
+87,16 Primitivo Gioia del Colle,Primitivo,4.3,66 ratings,Red wine,Italy,€21.70,68.7155%,24.5739%,40.1352%,17.2087%,Beef
+88,Don Luigi Riserva,Blend,4.3,65 ratings,Red wine,Italy,€29.50,84.2465%,48.2917%,29.1152%,30.4572%,Beef
+89,Santufili Primitivo,Primitivo,4.3,64 ratings,Red wine,Italy,€21.80,66.621%,21.9965%,44.9727%,14.024%,Beef
+90,Il Ritardatario Primitivo di Manduria Dolce Naturale,Primitivo,4.3,62 ratings,Red wine,Italy,€19.95,69.8327%,16.8243%,56.868%,6.2119%,Beef
+91,Teroldego,Teroldego,4.3,59 ratings,Red wine,Italy,€27.50,67.8164%,40.078%,21.6105%,27.7751%,Beef
+92,Cubardi Primitivo,Primitivo,4.3,59 ratings,Red wine,Italy,€14.80,70.0622%,24.7168%,40.9466%,16.0506%,Beef
+93,Le Grive,Blend,4.3,58 ratings,Red wine,Italy,€22.90,67.0782%,38.2887%,18.6699%,28.7266%,Beef
+94,Symbol Primitivo,Primitivo,4.3,57 ratings,Red wine,Italy,€25.90,66.1775%,29.2681%,39.1208%,13.9118%,Beef
+95,Montefalco Sagrantino,Sagrantino,4.3,56 ratings,Red wine,Italy,€22.20,57.4796%,50.76%,10.9822%,47.3912%,Beef
+96,Aragone Maremma Toscana,Blend,4.3,51 ratings,Red wine,Italy,€19.22,52.6889%,43.5001%,7.32319%,45.9704%,Beef
+97,Torre a Destra Riserva Chianti Classico,Sangiovese,4.3,50 ratings,Red wine,Italy,€29.10,48.5691%,56.6024%,8.45649%,61.3662%,Beef
+98,Lu Patri Nero d'Avola,Nero d'Avola,4.3,48 ratings,Red wine,Italy,€23.80,77.358%,40.1807%,24.319%,32.3105%,Beef
+99,Shiraz - Mourvedre - Viognier,Blend,4.3,43 ratings,Red wine,South Africa,€15.55,,,,,Beef
+100,Ad Hoc Primitivo di Manduria,Primitivo,4.3,42 ratings,Red wine,Italy,€13.90,64.9378%,25.2807%,49.7477%,17.6507%,Beef
+101,Rosone,Negroamaro,4.3,42 ratings,Red wine,Italy,€12.14,77.1772%,34.4767%,41.0449%,24.9069%,Beef
+102,Amarone della Valpolicella,Blend,4.3,40 ratings,Red wine,Italy,€24.99,,,,,Beef
+103,Primo Morellino di Scansano Riserva,Blend,4.3,39 ratings,Red wine,Italy,€29.80,53.1324%,54.9256%,,,Beef
+104,Syrah di Macellarotto,Shiraz/Syrah,4.3,37 ratings,Red wine,Italy,€25.20,83.3254%,48.623%,28.5426%,27.4205%,Beef
+105,Petraro,Blend,4.3,37 ratings,Red wine,Italy,€27.90,,,,,Beef
+106,Lui Nero di Troia,Nero di Troia,4.3,36 ratings,Red wine,Italy,€25.90,,,,,Beef
+107,Cuvée Georges Meunier Saint-Émilion Grand Cru,Blend,4.3,36 ratings,Red wine,France,€22.49,73.9399%,64.2274%,2.41537%,56.7087%,Beef
+108,Montefalco Sagrantino,Sagrantino,4.3,35 ratings,Red wine,Italy,€25,55.7636%,42.557%,12.9039%,35.6597%,Beef
+109,Il Nito,Blend,4.3,34 ratings,Red wine,Italy,€20,66.076%,46.051%,30.606%,22.352%,Beef
+110,Il Vescovo,Blend,4.3,34 ratings,Red wine,Italy,€20,81.6631%,43.2433%,39.2446%,30.7867%,Beef
+111,Loggia del Sole Governo All'Uso Toscana,Sangiovese,4.3,34 ratings,Red wine,Italy,€7,49.5118%,38.3422%,17.7344%,46.0569%,Beef
+112,Cento Su Cento Primitivo,Primitivo,4.3,32 ratings,Red wine,Italy,€27.90,68.3202%,24.4202%,47.6146%,13.8887%,Beef
+113,Cinco Elementos Essentia,Tempranillo,4.3,31 ratings,Red wine,Spain,€17.99,65.1742%,54.3492%,11.5529%,57.5013%,Beef
+114,Vespa Rosso,Merlot,4.3,29 ratings,Red wine,Italy,€26.40,66.2472%,40.2631%,20.706%,31.3408%,Beef
+115,Moscheta Nera Amarone della Valpolicella,Blend,4.3,29 ratings,Red wine,Italy,€21.36,72.8206%,25.0199%,40.6412%,35.804%,Beef
+116,Barbera d'Alba,Barbera,4.3,26 ratings,Red wine,Italy,€17.90,58.3189%,16.5866%,,,Beef
+117,Cinco Elementos,Tempranillo,4.3,25 ratings,Red wine,Spain,€11.99,59.039%,54.1143%,14.3656%,56.8608%,Beef
+118,Merlot Drago Rosso,Merlot,4.3,25 ratings,Red wine,Italy,€10.90,,,,,Beef
+119,Mucho Más Tinto,Blend,4.2,48213 ratings,Red wine,Spain,€8.99,63.0038%,38.2536%,33.2158%,33.2578%,Beef
+120,Ripassa Valpolicella Ripasso Superiore,Blend,4.2,10056 ratings,Red wine,Italy,€15.49,67.0481%,35.085%,29.2163%,22.7188%,Beef
+121,Ripassa Valpolicella Ripasso Superiore,Rondinella,4.2,5805 ratings,Red wine,Italy,€17.50,67.0481%,35.085%,29.2163%,22.7188%,Beef
+122,Ribera del Duero,Tempranillo,4.2,5724 ratings,Red wine,Spain,€21.70,64.9991%,54.5192%,10.6866%,60.595%,Beef
+123,The Chocolate Block,Blend,4.2,4368 ratings,Red wine,South Africa,€23.99,,,,,Beef
+124,Masserie Primitivo,Primitivo,4.2,3886 ratings,Red wine,Italy,€12.90,62.6699%,25.4251%,45.2473%,19.4306%,Beef
+125,José Malbec,Malbec,4.2,2196 ratings,Red wine,Argentina,€29.90,66.7411%,39.3201%,15.6124%,39.2497%,Beef
+126,Ca' de' Rocchi Valpolicella Ripasso Superiore Monterè,Blend,4.2,2058 ratings,Red wine,Italy,€15.39,66.8818%,34.7561%,30.2311%,22.4041%,Beef
+127,Malbec (I),Malbec,4.2,1912 ratings,Red wine,Argentina,€24.80,62.5115%,32.6734%,18.3917%,34.4592%,Beef
+128,Classique,Blend,4.2,1873 ratings,Red wine,South Africa,€27.10,64.7905%,49.2464%,7.556%,60.1267%,Beef
+129,Lu Rappaio Primitivo di Manduria,Primitivo,4.2,1694 ratings,Red wine,Italy,€12.90,67.7214%,23.1185%,44.4511%,14.6226%,Beef
+130,La Casetta Valpolicella Ripasso Classico Superiore,Blend,4.2,1664 ratings,Red wine,Italy,€13.94,66.6491%,36.3403%,31.525%,22.9511%,Beef
+131,Cabernet - Malbec,Blend,4.2,1483 ratings,Red wine,Argentina,€23.50,71.2937%,45.9182%,14.5913%,42.4353%,Beef
+132,Vino Nobile di Montepulciano,Blend,4.2,1311 ratings,Red wine,Italy,€24,54.7143%,57.0804%,5.88582%,64.5915%,Beef
+133,Cedro do Noval,Blend,4.2,1247 ratings,Red wine,Portugal,€24.96,74.4362%,53.2223%,10.9323%,44.3816%,Beef
+134,Amarone della Valpolicella,Blend,4.2,1180 ratings,Red wine,Italy,€26.90,,,,,Beef
+135,Montepulciano d'Abruzzo Riserva,Montepulciano,4.2,1166 ratings,Red wine,Italy,€23.80,42.7306%,45.3994%,6.6915%,65.3746%,Beef
+136,Feudo Croce Imperio LXXIV Primitivo di Manduria,Primitivo,4.2,1146 ratings,Red wine,Italy,€20.70,69.6235%,24.2827%,40.8744%,12.9245%,Beef
+137,Piano Chiuso Riserva Primitivo di Manduria,Primitivo,4.2,975 ratings,Red wine,Italy,€24.20,74.2312%,33.3548%,40.1037%,20.9578%,Beef
+138,Susumaniello,Susumaniello,4.2,904 ratings,Red wine,Italy,€11.30,83.6474%,35.814%,40.3253%,22.3489%,Beef
+139,Appassimento,Blend,4.2,895 ratings,Red wine,Italy,€8.90,73.0003%,27.4616%,47.5646%,18.8343%,Beef
+140,Montepulciano d'Abruzzo (Unico),Montepulciano,4.2,857 ratings,Red wine,Italy,€10,42.209%,39.474%,10.1553%,61.0113%,Beef
+141,Carapace Montefalco Sagrantino,Sagrantino,4.1,839 ratings,Red wine,Italy,€25.90,60.4445%,56.8342%,5.42688%,47.431%,Beef
+142,Valpolicella Ripasso Superiore,Blend,4.2,740 ratings,Red wine,Italy,€23,66.3285%,39.0771%,33.5913%,24.075%,Beef
+143,Brunello di Montalcino,Sangiovese,4.2,717 ratings,Red wine,Italy,€26.90,46.0837%,54.7271%,4.38097%,63.6243%,Beef
+144,Passo del Cardinale Primitivo di Manduria,Primitivo,4.2,708 ratings,Red wine,Italy,€10.50,66.5998%,25.2242%,40.335%,19.5742%,Beef
+145,Riserva Ducale Oro Chianti Classico (Gran Selezione Gold),Sangiovese,4.2,683 ratings,Red wine,Italy,€23.50,48.1019%,54.5522%,3.55564%,64.7421%,Beef
+146,Li Filitti Riserva Primitivo di Manduria,Primitivo,4.2,678 ratings,Red wine,Italy,€13.70,68.8189%,26.4684%,43.8857%,16.4003%,Beef
+147,Il Frappato Sicilia,Frappato,4.2,659 ratings,Red wine,Italy,€28.95,70.257%,42.6229%,22.6422%,37.6449%,Beef
+148,Blu Onice Aglianico Irpinia,Aglianico,4.2,631 ratings,Red wine,Italy,€14.90,,,,,Beef
+149,Amarone della Valpolicella Valpantena,Blend,4.2,612 ratings,Red wine,Italy,€29.90,,,,,Beef
+150,Valpolicella Ripasso Superiore,Blend,4.2,585 ratings,Red wine,Italy,€18.20,65.8843%,39.1157%,27.375%,24.4001%,Beef
+151,Douro Manoella Tinto,Touriga Nacional,4.2,578 ratings,Red wine,Portugal,€21.30,71.7367%,52.8367%,10.1277%,44.9849%,Beef
+152,Areni - Khndoghni,Blend,4.2,571 ratings,Red wine,Armenia,€25.40,,,,,Beef
+153,Saint-Émilion Grand Cru (Grand Cru Classé),Blend,4.2,564 ratings,Red wine,France,€28.70,72.6628%,57.7682%,7.28013%,51.9717%,Beef
+154,Amarone della Valpolicella Classico,Corvina,4.2,553 ratings,Red wine,Italy,€29.90,,,,,Beef
+155,Nerìo Riserva Negroamaro - Malvasia Nera,Blend,4.2,545 ratings,Red wine,Italy,€12.95,83.6269%,40.6012%,34.2918%,27.4084%,Beef
+156,Arcanum Il Fauno di Arcanum,Blend,4.2,530 ratings,Red wine,Italy,€26.50,51.8548%,41.4307%,4.59642%,45.2309%,Beef
+157,Fanova Primitivo,Primitivo,4.2,503 ratings,Red wine,Italy,€25,67.5727%,25.0683%,36.9433%,12.9654%,Beef
+158,I Bricchi Barbera d'Asti,Barbera,4.2,501 ratings,Red wine,Italy,€22.80,50.8594%,25.2386%,7.00229%,64.1465%,Beef
+159,Orion Primitivo,Primitivo,4.2,484 ratings,Red wine,Italy,€10.29,65.5868%,21.6653%,38.6786%,16.0694%,Beef
+160,Taurasi Radici,Aglianico,4.2,478 ratings,Red wine,Italy,€26.37,81.6839%,49.2901%,22.3126%,34.106%,Beef
+161,Cum Laude,Cabernet Sauvignon,4.2,469 ratings,Red wine,Italy,€14.90,50.5046%,42.2909%,6.30567%,44.4119%,Beef
+162,Callabriga Douro,Pinot Noir,4.2,465 ratings,Red wine,Portugal,€17.99,77.5955%,54.3614%,12.6526%,41.9917%,Beef
+163,Inferi Montepulciano d'Abruzzo Riserva,Montepulciano,4.2,446 ratings,Red wine,Italy,€25.40,46.2413%,42.098%,6.38153%,64.198%,Beef
+164,Single Vineyard Petit Verdot,Petit Verdot,4.2,435 ratings,Red wine,Uruguay,€25.75,,,,,Beef
+165,Cantine San Giorgio Perchè No?!,Zinfandel,4.2,431 ratings,Red wine,Italy,€17.82,78.3472%,39.1183%,38.8668%,22.4679%,Beef
+166,Lagrein Riserva Gries,Lagrein,4.2,419 ratings,Red wine,Italy,€26.90,64.8413%,42.7982%,17.3143%,31.2882%,Beef
+167,No Name,Nebbiolo,4.2,415 ratings,Red wine,Italy,€29.60,62.7328%,61.8442%,7.63001%,54.2235%,Beef
+168,Collepiano Sagrantino di Montefalco,Sagrantino,4.2,410 ratings,Red wine,Italy,€23.88,57.9385%,53.8636%,8.2557%,46.1687%,Beef
+169,Primitivo Salento Artas,Primitivo,4.2,408 ratings,Red wine,Italy,€24.70,69.3373%,28.5118%,39.1762%,18.3319%,Beef
+170,Pillastro Primitivo Puglia,Primitivo,4.2,401 ratings,Red wine,Italy,€8.50,67.3091%,17.6502%,40.6476%,9.51443%,Beef
+171,Cento X Cento Appassimento Primitivo,Primitivo,4.2,396 ratings,Red wine,Italy,€17.90,69.4961%,19.8931%,50.7095%,10.7114%,Beef
+172,Galileo Colli Pesaresi Sangiovese Riserva,Sangiovese,4.2,389 ratings,Red wine,Italy,€14.80,47.9218%,36.0563%,17.5839%,47.0636%,Beef
+173,Peiragal Barbera d'Alba,Barbera,4.2,375 ratings,Red wine,Italy,€17.80,53.2739%,20.7614%,6.89884%,62.3701%,Beef
+174,Salènde Appassimento Primitivo,Primitivo,4.2,374 ratings,Red wine,Italy,€13.49,65.1632%,22.2692%,44.9044%,17.9891%,Beef
+175,Primitivo Salento Artas,Primitivo,4.2,366 ratings,Red wine,Italy,€29,69.3373%,28.5118%,39.1762%,18.3319%,Beef
+176,Pinot Noir Riserva Monticol,Pinot Nero,4.2,355 ratings,Red wine,Italy,€29,36.9783%,25.6273%,7.86733%,63.8453%,Beef
+177,Varvàra Bolgheri,Cabernet Sauvignon,4.2,346 ratings,Red wine,Italy,€22,66.4236%,65.2064%,7.68974%,54.9075%,Beef
+178,Fanova Primitivo,Primitivo,4.2,343 ratings,Red wine,Italy,€12.70,67.5727%,25.0683%,36.9433%,12.9654%,Beef
+179,Barolo Rocche di Castelletto,Nebbiolo,4.2,336 ratings,Red wine,Italy,€29.30,60.899%,74.9406%,5.70549%,80.3474%,Beef
+180,F Negroamaro,Negroamaro,4.2,333 ratings,Red wine,Italy,€22.44,,,,,Beef
+181,Carapace Montefalco Sagrantino,Sagrantino,4.2,331 ratings,Red wine,Italy,€22.40,60.4445%,56.8342%,5.42688%,47.431%,Beef
+182,Eremo San Quirico,Aglianico,4.2,329 ratings,Red wine,Italy,€16.99,,,,,Beef
+183,Marchesa MariaBella Valpolicella Ripasso,Blend,4.2,325 ratings,Red wine,Italy,€18.80,60.5222%,42.3294%,25.6329%,31.9803%,Beef
+184,Narassa,Blend,4.2,321 ratings,Red wine,France,€13.90,67.164%,51.8858%,14.2087%,58.9305%,Beef
+185,Sapaio Bolgheri Volpolo,Cabernet Sauvignon,4.2,320 ratings,Red wine,Italy,€23.49,67.6307%,70.3336%,5.37224%,54.4889%,Beef
+186,Il Potere,,4.2,317 ratings,Red wine,Italy,€9.99,79.577%,33.3866%,47.4151%,22.2652%,Beef
+187,1 Uno Primitivo di Manduria Riserva,Primitivo,4.2,310 ratings,Red wine,Italy,€12.99,69.7324%,26.3487%,41.5545%,13.3102%,Beef
+188,Pegrandi Valpolicella Ripasso Classico Superiore,Blend,4.2,309 ratings,Red wine,Italy,€15.20,67.8016%,40.3683%,29.3274%,24.8143%,Beef
+189,Visellio Primitivo,Primitivo,4.2,307 ratings,Red wine,Italy,€29,68.7614%,25.1765%,42.8458%,13.3965%,Beef
+190,Desire Lush & Zin Primitivo,Primitivo,4.2,304 ratings,Red wine,Italy,€15.40,67.2053%,19.5971%,45.0792%,11.9677%,Beef
+191,Terre della Baronia Rosso,Blend,4.2,297 ratings,Red wine,Italy,€14.71,84.8608%,40.4018%,33.228%,29.1026%,Beef
+192,Ronchedone Rosso,Blend,4.2,293 ratings,Red wine,Italy,€16.50,65.5682%,40.5242%,24.1077%,29.6164%,Beef
+193,Riserva Ducale Oro Chianti Classico (Gran Selezione Gold),Sangiovese,4.2,283 ratings,Red wine,Italy,€23.40,48.1019%,54.5522%,3.55564%,64.7421%,Beef
+194,Paxmentis Leggermente Appassito Syrah,Shiraz/Syrah,4.2,282 ratings,Red wine,Italy,€13.70,76.9063%,37.2174%,47.0052%,31.5971%,Beef
+195,Bourbon Barrel Aged Malbec,Malbec,4.2,280 ratings,Red wine,Argentina,€14.50,67.6253%,26.8053%,24.726%,33.1035%,Beef
+196,Amarone della Valpolicella,Blend,4.2,269 ratings,Red wine,Italy,€24.50,,,,,Beef
+197,Coyam,Blend,4.2,266 ratings,Red wine,Chile,€18,,,,,Beef
+198,Aida Montepulciano d'Abruzzo,Montepulciano,4.2,263 ratings,Red wine,Italy,€13.32,38.5589%,41.0195%,5.24244%,66.2114%,Beef
+199,Syrah,Blend,4.2,250 ratings,Red wine,Chile,€26.68,84.3601%,39.3508%,11.6656%,27.0032%,Beef
+200,Amarone della Valpolicella,Blend,4.2,240 ratings,Red wine,Italy,€21.40,,,,,Beef
+201,Terre della Baronia Rosso,Nero d'Avola,4.2,240 ratings,Red wine,Italy,€22.30,84.8608%,40.4018%,33.228%,29.1026%,Beef
+202,Ammasso Rosso Sicilia,Nerello Mascalese,4.2,237 ratings,Red wine,Italy,€17.90,82.2294%,40.607%,31.0666%,27.1177%,Beef
+203,Barolo,Nebbiolo,4.2,235 ratings,Red wine,Italy,€27.99,63.1446%,73.7364%,7.26898%,79.1496%,Beef
+204,Suadens Campania Rosso,Blend,4.2,234 ratings,Red wine,Italy,€13.29,82.7769%,33.0426%,41.8814%,22.9252%,Beef
+205,Sassi Chiusi,Blend,4.2,232 ratings,Red wine,Italy,€21.90,51.4565%,50.3723%,5.92117%,56.6529%,Beef
+206,Sagrantino di Montefalco,Sagrantino,4.2,230 ratings,Red wine,Italy,€29.90,58.2293%,48.1462%,8.66098%,42.6825%,Beef
+207,Amarone della Valpolicella Valpantena,Blend,4.2,227 ratings,Red wine,Italy,€29.80,,,,,Beef
+208,Riserva Salice Salentino,Blend,4.2,224 ratings,Red wine,Italy,€17.71,78.7227%,39.7236%,25.508%,23.9593%,Beef
+209,Camelot,Blend,4.2,218 ratings,Red wine,Italy,€27.30,79.0908%,42.8564%,26.2972%,31.4184%,Beef
+210,Pinot Noir,Pinot Noir,4.2,216 ratings,Red wine,Hungary,€29,,,,,Beef
+211,Brunello di Montalcino,Sangiovese,4.2,213 ratings,Red wine,Italy,€22.90,45.8232%,56.7801%,4.81618%,60.1832%,Beef
+212,Appassimento Primitivo,Primitivo,4.2,214 ratings,Red wine,Italy,€9.90,69.0964%,24.0291%,44.8829%,14.4107%,Beef
+213,Amarone della Valpolicella Classico,Blend,4.2,212 ratings,Red wine,Italy,€25.51,84.2623%,28.3663%,47.1286%,26.8212%,Beef
+214,Korem Bovale Isola dei Nuraghi,Bovale,4.2,210 ratings,Red wine,Italy,€27.79,80.1843%,48.647%,21.2612%,32.5825%,Beef
+215,Cavanna,Nebbiolo,4.2,206 ratings,Red wine,Italy,€22.95,62.2653%,71.9683%,0.495615%,,Beef
+216,Puglia Leggermente Appassite,Blend,4.2,195 ratings,Red wine,Italy,€7.40,75.2989%,35.15%,40.0587%,27.6811%,Beef
+217,Sangiovese,Sangiovese,4.2,195 ratings,Red wine,Italy,€11.40,45.6105%,50.2812%,0.258103%,51.3385%,Beef
+218,Antonio Castagnedi Amarone della Valpolicella,Blend,4.2,192 ratings,Red wine,Italy,€29.50,,,,,Beef
+219,Senes Cannonau de Sardegna Riserva,Grenache,4.2,181 ratings,Red wine,Italy,€22.50,66.7567%,43.6856%,5.08891%,44.4104%,Beef
+220,Sogno Rosso,Merlot,4.2,180 ratings,Red wine,Italy,€17.50,54.8211%,37.4553%,11.4126%,41.6454%,Beef
+221,Châteauneuf-du-Pape,Shiraz/Syrah,4.2,181 ratings,Red wine,France,€29.90,,,,,Beef
+222,Quintessenz Riserva Cabernet Sauvignon,Cabernet Sauvignon,4.2,177 ratings,Red wine,Italy,€29.40,61.3559%,46.891%,20.7102%,35.7327%,Beef
+223,Primitivo - Negroamaro,Blend,4.2,177 ratings,Red wine,Italy,€12.90,73.044%,37.3652%,51.3443%,31.6649%,Beef
+224,Passum Barbera d'Asti Superiore,Barbera,4.2,177 ratings,Red wine,Italy,€28.50,58.4903%,24.9303%,19.342%,60.2294%,Beef
+225,Nebbiolo d’alba,Nebbiolo,4.2,176 ratings,Red wine,Italy,€27,61.4645%,82.3487%,2.60879%,84.9964%,Beef
+226,Mandrone di Lohsa Maremma Toscana Rosso,Blend,4.2,175 ratings,Red wine,Italy,€30,53.9312%,45.3717%,6.11152%,45.9893%,Beef
+227,Primitivo di Manduria Riserva,Primitivo,4.2,175 ratings,Red wine,Italy,€16.90,70.6075%,23.07%,41.3186%,16.2787%,Beef
+228,Valpolicella Ripasso Classico Superiore Le Muraie,Blend,4.2,173 ratings,Red wine,Italy,€17.90,66.7259%,37.122%,26.9873%,24.0608%,Beef
+229,Centenero Amarone della Valpolicella,Blend,4.2,173 ratings,Red wine,Italy,€26,,,,,Beef
+230,Poggio Valente,Sangiovese,4.2,169 ratings,Red wine,Italy,€28,50.9465%,46.5364%,11.806%,47.007%,Beef
+231,Nero per Sempre,Rebo,4.2,168 ratings,Red wine,Italy,€17.90,60.6122%,37.9608%,30.8535%,27.6565%,Beef
+232,Lagrein Riserva Gries,Lagrein,4.2,167 ratings,Red wine,Italy,€22,64.8413%,42.7982%,17.3143%,31.2882%,Beef
+233,Lu Patri Nero d'Avola,Nero d'Avola,4.2,165 ratings,Red wine,Italy,€27.30,77.358%,40.1807%,24.319%,32.3105%,Beef
+234,Jèma Corvina,Corvina,4.2,164 ratings,Red wine,Italy,€22.06,63.5494%,39.9716%,21.6798%,28.4797%,Beef
+235,S.to Ippolito,Blend,4.2,163 ratings,Red wine,Italy,€22.49,56.6676%,29.3605%,29.9322%,38.0355%,Beef
+236,Chianti Classico Riserva,Sangiovese,4.2,159 ratings,Red wine,Italy,€19.80,45.9145%,51.3851%,2.93415%,60.006%,Beef
+237,Saurus Barrel Fermented Malbec,Malbec,4.2,159 ratings,Red wine,Argentina,€26.45,60.1732%,33.8335%,24.0872%,34.9901%,Beef
+238,Barocco Reale Primitivo,Primitivo,4.2,158 ratings,Red wine,Italy,€14.90,68.7895%,25.9504%,41.6878%,15.7943%,Beef
+239,Creative Block 5,Blend,4.2,157 ratings,Red wine,South Africa,€28.77,68.5255%,54.3634%,8.98805%,60.3503%,Beef
+240,Flora Pinot Noir Riserva,Pinot Noir,4.2,155 ratings,Red wine,Italy,€23.80,37.0357%,27.3344%,,,Beef
+241,NeroBaronj,Nero d'Avola,4.2,152 ratings,Red wine,Italy,€19.50,78.1509%,43.9647%,27.4724%,33.4028%,Beef
+242,Barolo,Nebbiolo,4.2,151 ratings,Red wine,Italy,€29.66,60.3975%,78.2828%,5.8399%,81.1481%,Beef
+243,Aleatico Sovana Superiore,Aleatico,4.2,149 ratings,Red wine,Italy,€18.70,45.6822%,32.9974%,40.6039%,44.2059%,Beef
+244,Calaóne Colli Euganei Rosso,Blend,4.2,144 ratings,Red wine,Italy,€22.50,66.2511%,44.0598%,24.8078%,30.2509%,Beef
+245,Carminium,Carménère,4.2,143 ratings,Red wine,Italy,€23.90,65.3261%,38.5386%,8.44822%,34.0305%,Beef
+246,Maria Costanza Rosso,Nero d'Avola,4.2,138 ratings,Red wine,Italy,€29.50,80.2337%,41.3181%,27.0567%,31.9537%,Beef
+247,Barolo,Nebbiolo,4.2,135 ratings,Red wine,Italy,€24.50,65.2034%,78.4946%,7.27062%,77.7019%,Beef
+248,Calinverno,Blend,4.2,136 ratings,Red wine,Italy,€25,70.6861%,39.4095%,33.1168%,22.3095%,Beef
+249,Bricco Paradiso Barbera d'Asti Superiore,Barbera,4.2,133 ratings,Red wine,Italy,€19,59.6892%,26.7242%,10.7208%,60.9527%,Beef
+250,Fico Susumaniello,Susumaniello,4.8,27 ratings,Red wine,Italy,€24.90,75.8029%,36.3297%,31.3312%,24.9804%,Beef
+251,60 Sessantanni Old Vines Primitivo di Manduria,Primitivo,4.5,15957 ratings,Red wine,Italy,€22.90,69.663%,22.9146%,46.7775%,12.1954%,Beef
+252,Limited Edition 10 Vendemmie,Montepulciano,4.5,8892 ratings,Red wine,Italy,€24.30,50.6136%,36.753%,19.4152%,59.7082%,Beef
+253,Fanova Riserva,Primitivo,4.5,135 ratings,Red wine,Italy,€17.40,79.3122%,38.7329%,30.1212%,31.5391%,Beef
+254,Amarone della Valpolicella Classico,Blend,4.5,57 ratings,Red wine,Italy,€27.70,,,,,Beef
+255,Guerriero della Terra,Blend,4.5,41 ratings,Red wine,Italy,€24.90,59.5447%,34.6501%,39.1743%,39.3046%,Beef
+256,Nizza DOCG,Barbera,4.5,33 ratings,Red wine,Italy,€20,63.1152%,32.4413%,2.22174%,43.1739%,Beef
+257,Lucretia Chianti Classico Riserva,Sangiovese,4.5,33 ratings,Red wine,Italy,€26,52.5077%,69.8093%,3.2835%,67.7371%,Beef
+258,Primitivo Salento,Primitivo,4.4,2307 ratings,Red wine,Italy,€18.40,68.2177%,21.1277%,47.6472%,9.69191%,Beef
+259,Guerriero della Terra,Blend,4.4,1421 ratings,Red wine,Italy,€24.95,59.5447%,34.6501%,39.1743%,39.3046%,Beef
+260,Papale Linea Oro Primitivo di Manduria,Primitivo,4.4,1284 ratings,Red wine,Italy,€22.97,68.0154%,22.1595%,43.9264%,12.2737%,Beef
+261,60 Sessantanni Old Vines Primitivo di Manduria,Primitivo,4.4,873 ratings,Red wine,Italy,€23.65,69.663%,22.9146%,46.7775%,12.1954%,Beef
+262,60 Sessantanni Limited Edition Old Vines Primitivo di Manduria,Primitivo,4.4,445 ratings,Red wine,Italy,€27.30,69.4106%,19.7336%,45.9759%,11.1998%,Beef
+263,Liala Negroamaro,Negroamaro,4.4,249 ratings,Red wine,Italy,€23.86,82.4346%,30.3049%,40.8946%,26.0213%,Beef
+264,Cavolo Amarone della Valpolicella,Blend,4.4,238 ratings,Red wine,Italy,€29.89,80.3493%,24.82%,45.7862%,29.1761%,Beef
+265,Primitivo di Manduria,Primitivo,4.4,221 ratings,Red wine,Italy,€29.90,72.0229%,25.4231%,45.3349%,12.2387%,Beef
+266,Il Bacca Old Vine Primitivo di Manduria,Primitivo,4.4,172 ratings,Red wine,Italy,€26.90,68.7786%,26.5763%,43.1435%,13.4977%,Beef
+267,Valpolicella Ripasso Classico Superiore,Blend,4.4,155 ratings,Red wine,Italy,€18.90,66.9617%,38.5803%,33.5744%,26.9165%,Beef
+268,Amarone della Valpolicella,Blend,4.4,145 ratings,Red wine,Italy,€22,,,,,Beef
+269,Paradoxe,Blend,4.4,126 ratings,Red wine,France,€29.90,70.215%,51.281%,16.1654%,56.0027%,Beef
+270,L'Invidio Bolgheri Rosso,Blend,4.4,114 ratings,Red wine,Italy,€17.84,60.1444%,54.468%,9.33844%,46.36%,Beef
+271,Vrucara Nero d'Avola,Nero d'Avola,4.4,94 ratings,Red wine,Italy,€29.99,,,,,Beef
+272,Saracena Primitivo,Primitivo,4.4,92 ratings,Red wine,Italy,€12.20,69.0389%,21.306%,44.0903%,11.5374%,Beef
+273,Mirea Primitivo di Manduria,Primitivo,4.4,85 ratings,Red wine,Italy,€19.20,75.7944%,23.1862%,46.0661%,11.5096%,Beef
+274,I Colli Chianti Classico Riserva,Sangiovese,4.4,76 ratings,Red wine,Italy,€25.89,46.9102%,59.2303%,8.41216%,60.5772%,Beef
+275,Lodolaio Chianti Classico Riserva,Sangiovese,4.4,63 ratings,Red wine,Italy,€27.90,51.3399%,56.0718%,2.45419%,64.1281%,Beef
+276,Ventoux Silica,Blend,4.4,39 ratings,Red wine,France,€28.80,66.6473%,55.7554%,17.1575%,53.7446%,Beef
+277,Taurasi,Aglianico,4.4,29 ratings,Red wine,Italy,€24.90,,,,,Beef
+278,Nauna Primitivo - Negroamaro,Blend,4.4,29 ratings,Red wine,Italy,€18.20,84.5756%,42.3456%,32.0935%,26.7716%,Beef
+279,Iroso,Blend,4.4,28 ratings,Red wine,Italy,€26.50,50.5798%,34.0946%,2.34496%,37.0114%,Beef
+280,Brunello di Montalcino,Sangiovese,4.4,25 ratings,Red wine,Italy,€26.90,47.3318%,61.6828%,,,Beef
+281,Edizione Cinque Autoctoni,Sangiovese,4.3,63678 ratings,Red wine,Italy,€23.99,70.9731%,38.254%,30.4642%,31.5104%,Beef
+282,Cinquanta Collezione,Negroamaro,4.3,36355 ratings,Red wine,Italy,€18.30,,,,,Beef
+283,F Negroamaro,Negroamaro,4.3,1627 ratings,Red wine,Italy,€22.40,,,,,Beef
+284,Amaranta Montepulciano d'Abruzzo,Montepulciano,4.3,1270 ratings,Red wine,Italy,€16.70,44.2605%,38.0908%,15.1877%,61.08%,Beef
+285,Villa Donoratico Bolgheri,Blend,4.3,1207 ratings,Red wine,Italy,€28.90,66.3117%,67.4043%,10.6418%,54.2565%,Beef
+286,Cubardi Primitivo,Primitivo,4.3,790 ratings,Red wine,Italy,€15.29,70.0622%,24.7168%,40.9466%,16.0506%,Beef
+287,Elena La Luna Barbera d'Alba,Barbera,4.3,709 ratings,Red wine,Italy,€19.90,62.434%,20.7051%,18.7754%,59.5645%,Beef
+288,Gran Reserva,Malbec,4.3,653 ratings,Red wine,Argentina,€26.10,,,,,Beef
+289,Harmonium Nero d'Avola,Nero d'Avola,4.3,632 ratings,Red wine,Italy,€27.50,83.9091%,44.8476%,28.109%,29.0225%,Beef
+290,Amarone della Valpolicella Classico,Blend,4.3,566 ratings,Red wine,Italy,€23.90,,,,,Beef
+291,62 Anniversario Primitivo di Manduria Riserva,Primitivo,4.3,562 ratings,Red wine,Italy,€27.20,69.8162%,21.1846%,44.7865%,11.1896%,Beef
+292,Stilio Primitivo di Manduria,Primitivo,4.3,559 ratings,Red wine,Italy,€11.50,70.0308%,21.6412%,45.8288%,13.204%,Beef
+293,La Groletta Amarone della Valpolicella,Blend,4.3,511 ratings,Red wine,Italy,€27.95,82.4305%,26.5422%,47.4486%,25.8193%,Beef
+294,8 Limited Edition,Montepulciano,4.3,396 ratings,Red wine,Italy,€24.40,66.0248%,43.9257%,11.2723%,37.5099%,Beef
+295,Eremo San Quirico Gold,Aglianico,4.3,391 ratings,Red wine,Italy,€18.95,84.5764%,36.89%,40.694%,22.8539%,Beef
+296,Amarone della Valpolicella Classico Lena di Mezzo,Blend,4.3,381 ratings,Red wine,Italy,€27.90,,,,,Beef
+297,Pecoranera Rosso,Nero di Troia,4.3,380 ratings,Red wine,Italy,€11.90,77.7367%,31.5385%,47.8988%,26.4048%,Beef
+298,Paralupi Appassimento,Blend,4.3,341 ratings,Red wine,Italy,€12.90,,,,,Beef
+299,Amarone della Valpolicella Classico,Corvina,4.3,329 ratings,Red wine,Italy,€26,84.8999%,26.0792%,44.3067%,26.3776%,Beef
+300,Antièri Susumaniello,Susumaniello,4.3,318 ratings,Red wine,Italy,€16.40,80.5437%,38.5272%,39.5557%,30.7997%,Beef
+301,Gocce Primitivo di Manduria,Primitivo,4.3,302 ratings,Red wine,Italy,€29.75,67.2456%,22.4184%,50.5186%,11.3384%,Beef
+302,Visellio Primitivo,Primitivo,4.3,287 ratings,Red wine,Italy,€24.99,68.7614%,25.1765%,42.8458%,13.3965%,Beef
+303,Primitivo di Manduria Riserva,Primitivo,4.3,279 ratings,Red wine,Italy,€11.99,69.6118%,20.7974%,44.1206%,17.5456%,Beef
+304,Primitivo,Primitivo,4.3,269 ratings,Red wine,Italy,€14.19,67.3913%,22.4108%,43.6897%,16.479%,Beef
+305,17 Primitivo Gioia del Colle,Primitivo,4.3,253 ratings,Red wine,Italy,€29.90,70.2069%,24.9263%,39.9504%,15.0855%,Beef
+306,Cosimo Varvaglione Collezione Privata Negroamaro del Salento,Negroamaro,4.3,245 ratings,Red wine,Italy,€29.80,76.7037%,36.9437%,29.2564%,32.1497%,Beef
+307,Sonetto Primitivo di Manduria Riserva,Primitivo,4.3,232 ratings,Red wine,Italy,€29.50,67.2201%,27.534%,39.724%,13.5343%,Beef
+308,Alchymia Primitivo,Primitivo,4.3,232 ratings,Red wine,Italy,€12.70,67.3408%,20.8559%,46.7771%,12.3789%,Beef
+309,Susu' Susumaniello,Susumaniello,4.3,220 ratings,Red wine,Italy,€11.40,76.705%,32.2948%,43.7405%,20.4377%,Beef
+310,Elegia Primitivo di Manduria Riserva,Primitivo,4.3,216 ratings,Red wine,Italy,€15.90,67.8678%,26.7458%,46.2798%,15.4155%,Beef
+311,San Giorgio Amarone della Valpolicella,Blend,4.3,176 ratings,Red wine,Italy,€19.99,,,,,Beef
+312,Borgo dei Guidi Sangiovese - Cabernet Sauvignon,Blend,4.3,160 ratings,Red wine,Italy,€19.90,65.2195%,40.8662%,26.1229%,,Beef
+313,Ilmorante Primitivo di Manduria,Primitivo,4.3,155 ratings,Red wine,Italy,€17,74.5738%,22.7912%,51.925%,11.1669%,Beef
+314,Altemura Primitivo di Manduria,Primitivo,4.3,154 ratings,Red wine,Italy,€20.70,67.5797%,28.3509%,39.8101%,19.1283%,Beef
+315,L’Arringatore,Blend,4.3,153 ratings,Red wine,Italy,€26.50,55.2245%,45.6655%,6.81133%,50.3032%,Beef
+316,Toppicello Nero di Troia,Nero di Troia,4.3,129 ratings,Red wine,Italy,€20.90,,,,,Beef
+317,Amarone della Valpolicella Classico Riserva,Blend,4.3,129 ratings,Red wine,Italy,€29.99,71.1875%,28.6719%,43.0156%,34.3438%,Beef
+318,Gelso d'Oro Nero di Troia,Nero di Troia,4.3,108 ratings,Red wine,Italy,€20.95,84.4944%,37.2695%,36.7208%,24.8084%,Beef
+319,Synthesis Malbec,Malbec,4.3,107 ratings,Red wine,Argentina,€29.10,64.5926%,32.9107%,18.3315%,37.0825%,Beef
+320,Nauna Primitivo - Negroamaro,Blend,4.3,105 ratings,Red wine,Italy,€18.30,84.5756%,42.3456%,32.0935%,26.7716%,Beef
+321,Amarone della Valpolicella,Blend,4.3,103 ratings,Red wine,Italy,€26.90,84.4986%,21.0632%,46.9949%,21.6672%,Beef
+322,Canace Nero di Troia,Nero di Troia,4.3,102 ratings,Red wine,Italy,€13.60,84.3022%,38.9155%,40.1889%,23.6558%,Beef
+323,Amarone della Valpolicella,Blend,4.3,99 ratings,Red wine,Italy,€24.95,83.9818%,29.809%,46.1759%,31.4133%,Beef
+324,Amarone della Valpolicella Classico,Blend,4.3,99 ratings,Red wine,Italy,€30,,,,,Beef
+325,Phi 20 Anni,Blend,4.3,96 ratings,Red wine,Italy,€26.80,63.3639%,43.1041%,17.949%,20.7592%,Beef
+326,Bicento,Aglianico,4.3,95 ratings,Red wine,Italy,€19.95,84.4002%,37.3451%,38.3584%,24.0577%,Beef
+327,17 Primitivo Gioia del Colle,Primitivo,4.3,94 ratings,Red wine,Italy,€20.90,70.2069%,24.9263%,39.9504%,15.0855%,Beef
+328,Casale Ciliani Malvasia - Primitivo,Blend,4.3,91 ratings,Red wine,Italy,€12.47,81.2967%,42.5%,35.2199%,23.1795%,Beef
+329,Primitivo,Primitivo,4.3,86 ratings,Red wine,Italy,€14.50,67.3706%,21.7524%,44.7362%,12.6561%,Beef
+330,L'Andrea,Sangiovese,4.3,83 ratings,Red wine,Italy,€24,59.0912%,45.9726%,7.0463%,40.5704%,Beef
+331,Rosso 17°,Primitivo,4.3,79 ratings,Red wine,Italy,€22.90,74.0469%,22.0566%,39.2864%,17.0785%,Beef
+332,Rovente Morellino di Scansano,Sangiovese,4.3,78 ratings,Red wine,Italy,€25.99,59.3137%,44.1636%,15.9735%,40.3216%,Beef
+333,El Cencio Rosso Verona,Blend,4.3,78 ratings,Red wine,Italy,€27.20,65.7488%,41.4167%,20.5263%,27.6636%,Beef
+334,Época Rdeće Rosso,Blend,4.3,74 ratings,Red wine,Slovenia,€26.30,,,,,Beef
+335,Lagrein Riserva,Lagrein,4.3,72 ratings,Red wine,Italy,€29.40,64.6014%,43.0971%,19.0659%,32.609%,Beef
+336,Robbione,Vernaccia,4.3,71 ratings,Red wine,Italy,€27.50,61.9815%,42.9835%,16.7153%,45.0844%,Beef
+337,16 Primitivo Gioia del Colle,Primitivo,4.3,66 ratings,Red wine,Italy,€21.70,68.7155%,24.5739%,40.1352%,17.2087%,Beef
+338,Don Luigi Riserva,Blend,4.3,65 ratings,Red wine,Italy,€29.50,84.2465%,48.2917%,29.1152%,30.4572%,Beef
+339,Santufili Primitivo,Primitivo,4.3,64 ratings,Red wine,Italy,€21.80,66.621%,21.9965%,44.9727%,14.024%,Beef
+340,Il Ritardatario Primitivo di Manduria Dolce Naturale,Primitivo,4.3,62 ratings,Red wine,Italy,€19.95,69.8327%,16.8243%,56.868%,6.2119%,Beef
+341,Teroldego,Teroldego,4.3,59 ratings,Red wine,Italy,€27.50,67.8164%,40.078%,21.6105%,27.7751%,Beef
+342,Cubardi Primitivo,Primitivo,4.3,59 ratings,Red wine,Italy,€14.80,70.0622%,24.7168%,40.9466%,16.0506%,Beef
+343,Le Grive,Blend,4.3,58 ratings,Red wine,Italy,€22.90,67.0782%,38.2887%,18.6699%,28.7266%,Beef
+344,Symbol Primitivo,Primitivo,4.3,57 ratings,Red wine,Italy,€25.90,66.1775%,29.2681%,39.1208%,13.9118%,Beef
+345,Montefalco Sagrantino,Sagrantino,4.3,56 ratings,Red wine,Italy,€22.20,57.4796%,50.76%,10.9822%,47.3912%,Beef
+346,Aragone Maremma Toscana,Blend,4.3,51 ratings,Red wine,Italy,€19.22,52.6889%,43.5001%,7.32319%,45.9704%,Beef
+347,Torre a Destra Riserva Chianti Classico,Sangiovese,4.3,50 ratings,Red wine,Italy,€29.10,48.5691%,56.6024%,8.45649%,61.3662%,Beef
+348,Lu Patri Nero d'Avola,Nero d'Avola,4.3,48 ratings,Red wine,Italy,€23.80,77.358%,40.1807%,24.319%,32.3105%,Beef
+349,Shiraz - Mourvedre - Viognier,Blend,4.3,43 ratings,Red wine,South Africa,€15.55,,,,,Beef
+350,Ad Hoc Primitivo di Manduria,Primitivo,4.3,42 ratings,Red wine,Italy,€13.90,64.9378%,25.2807%,49.7477%,17.6507%,Beef
+351,Rosone,Negroamaro,4.3,42 ratings,Red wine,Italy,€12.14,77.1772%,34.4767%,41.0449%,24.9069%,Beef
+352,Amarone della Valpolicella,Blend,4.3,40 ratings,Red wine,Italy,€24.99,,,,,Beef
+353,Primo Morellino di Scansano Riserva,Blend,4.3,39 ratings,Red wine,Italy,€29.80,53.1324%,54.9256%,,,Beef
+354,Syrah di Macellarotto,Shiraz/Syrah,4.3,37 ratings,Red wine,Italy,€25.20,83.3254%,48.623%,28.5426%,27.4205%,Beef
+355,Petraro,Blend,4.3,37 ratings,Red wine,Italy,€27.90,,,,,Beef
+356,Lui Nero di Troia,Nero di Troia,4.3,36 ratings,Red wine,Italy,€25.90,,,,,Beef
+357,Cuvée Georges Meunier Saint-Émilion Grand Cru,Blend,4.3,36 ratings,Red wine,France,€22.49,73.9399%,64.2274%,2.41537%,56.7087%,Beef
+358,Montefalco Sagrantino,Sagrantino,4.3,35 ratings,Red wine,Italy,€25,55.7636%,42.557%,12.9039%,35.6597%,Beef
+359,Il Nito,Blend,4.3,34 ratings,Red wine,Italy,€20,66.076%,46.051%,30.606%,22.352%,Beef
+360,Il Vescovo,Blend,4.3,34 ratings,Red wine,Italy,€20,81.6631%,43.2433%,39.2446%,30.7867%,Beef
+361,Loggia del Sole Governo All'Uso Toscana,Sangiovese,4.3,34 ratings,Red wine,Italy,€7,49.5118%,38.3422%,17.7344%,46.0569%,Beef
+362,Cento Su Cento Primitivo,Primitivo,4.3,32 ratings,Red wine,Italy,€27.90,68.3202%,24.4202%,47.6146%,13.8887%,Beef
+363,Cinco Elementos Essentia,Tempranillo,4.3,31 ratings,Red wine,Spain,€17.99,65.1742%,54.3492%,11.5529%,57.5013%,Beef
+364,Vespa Rosso,Merlot,4.3,29 ratings,Red wine,Italy,€26.40,66.2472%,40.2631%,20.706%,31.3408%,Beef
+365,Moscheta Nera Amarone della Valpolicella,Blend,4.3,29 ratings,Red wine,Italy,€21.36,72.8206%,25.0199%,40.6412%,35.804%,Beef
+366,Barbera d'Alba,Barbera,4.3,26 ratings,Red wine,Italy,€17.90,58.3189%,16.5866%,,,Beef
+367,Cinco Elementos,Tempranillo,4.3,25 ratings,Red wine,Spain,€11.99,59.039%,54.1143%,14.3656%,56.8608%,Beef
+368,Merlot Drago Rosso,Merlot,4.3,25 ratings,Red wine,Italy,€10.90,,,,,Beef
+369,Mucho Más Tinto,Blend,4.2,48216 ratings,Red wine,Spain,€8.99,63.0038%,38.2536%,33.2158%,33.2578%,Beef
+370,Ripassa Valpolicella Ripasso Superiore,Blend,4.2,10056 ratings,Red wine,Italy,€15.49,67.0481%,35.085%,29.2163%,22.7188%,Beef
+371,Ripassa Valpolicella Ripasso Superiore,Rondinella,4.2,5805 ratings,Red wine,Italy,€17.50,67.0481%,35.085%,29.2163%,22.7188%,Beef
+372,Ribera del Duero,Tempranillo,4.2,5724 ratings,Red wine,Spain,€21.70,64.9991%,54.5192%,10.6866%,60.595%,Beef
+373,The Chocolate Block,Blend,4.2,4368 ratings,Red wine,South Africa,€23.99,,,,,Beef
+374,Masserie Primitivo,Primitivo,4.2,3886 ratings,Red wine,Italy,€12.90,62.6699%,25.4251%,45.2473%,19.4306%,Beef
+375,José Malbec,Malbec,4.2,2196 ratings,Red wine,Argentina,€29.90,66.7411%,39.3201%,15.6124%,39.2497%,Beef
+376,Ca' de' Rocchi Valpolicella Ripasso Superiore Monterè,Blend,4.2,2058 ratings,Red wine,Italy,€15.39,66.8818%,34.7561%,30.2311%,22.4041%,Beef
+377,Malbec (I),Malbec,4.2,1912 ratings,Red wine,Argentina,€24.80,62.5115%,32.6734%,18.3917%,34.4592%,Beef
+378,Classique,Blend,4.2,1873 ratings,Red wine,South Africa,€27.10,64.7905%,49.2464%,7.556%,60.1267%,Beef
+379,Lu Rappaio Primitivo di Manduria,Primitivo,4.2,1694 ratings,Red wine,Italy,€12.90,67.7214%,23.1185%,44.4511%,14.6226%,Beef
+380,La Casetta Valpolicella Ripasso Classico Superiore,Blend,4.2,1664 ratings,Red wine,Italy,€13.94,66.6491%,36.3403%,31.525%,22.9511%,Beef
+381,Cabernet - Malbec,Blend,4.2,1485 ratings,Red wine,Argentina,€23.50,71.2937%,45.9182%,14.5913%,42.4353%,Beef
+382,Vino Nobile di Montepulciano,Blend,4.2,1311 ratings,Red wine,Italy,€24,54.7143%,57.0804%,5.88582%,64.5915%,Beef
+383,Cedro do Noval,Blend,4.2,1247 ratings,Red wine,Portugal,€24.96,74.4362%,53.2223%,10.9323%,44.3816%,Beef
+384,Amarone della Valpolicella,Blend,4.2,1180 ratings,Red wine,Italy,€26.90,,,,,Beef
+385,Montepulciano d'Abruzzo Riserva,Montepulciano,4.2,1166 ratings,Red wine,Italy,€23.80,42.7306%,45.3994%,6.6915%,65.3746%,Beef
+386,Feudo Croce Imperio LXXIV Primitivo di Manduria,Primitivo,4.2,1146 ratings,Red wine,Italy,€20.70,69.6235%,24.2827%,40.8744%,12.9245%,Beef
+387,Piano Chiuso Riserva Primitivo di Manduria,Primitivo,4.2,975 ratings,Red wine,Italy,€24.20,74.2312%,33.3548%,40.1037%,20.9578%,Beef
+388,Susumaniello,Susumaniello,4.2,904 ratings,Red wine,Italy,€11.30,83.6474%,35.814%,40.3253%,22.3489%,Beef
+389,Appassimento,Blend,4.2,895 ratings,Red wine,Italy,€8.90,73.0003%,27.4616%,47.5646%,18.8343%,Beef
+390,Montepulciano d'Abruzzo (Unico),Montepulciano,4.2,857 ratings,Red wine,Italy,€10,42.209%,39.474%,10.1553%,61.0113%,Beef
+391,Carapace Montefalco Sagrantino,Sagrantino,4.1,839 ratings,Red wine,Italy,€25.90,60.4445%,56.8342%,5.42688%,47.431%,Beef
+392,Valpolicella Ripasso Superiore,Blend,4.2,740 ratings,Red wine,Italy,€23,66.3285%,39.0771%,33.5913%,24.075%,Beef
+393,Brunello di Montalcino,Sangiovese,4.2,717 ratings,Red wine,Italy,€26.90,46.0837%,54.7271%,4.38097%,63.6243%,Beef
+394,Passo del Cardinale Primitivo di Manduria,Primitivo,4.2,708 ratings,Red wine,Italy,€10.50,66.5998%,25.2242%,40.335%,19.5742%,Beef
+395,Riserva Ducale Oro Chianti Classico (Gran Selezione Gold),Sangiovese,4.2,683 ratings,Red wine,Italy,€23.50,48.1019%,54.5522%,3.55564%,64.7421%,Beef
+396,Li Filitti Riserva Primitivo di Manduria,Primitivo,4.2,678 ratings,Red wine,Italy,€13.70,68.8189%,26.4684%,43.8857%,16.4003%,Beef
+397,Il Frappato Sicilia,Frappato,4.2,659 ratings,Red wine,Italy,€28.95,70.257%,42.6229%,22.6422%,37.6449%,Beef
+398,Blu Onice Aglianico Irpinia,Aglianico,4.2,631 ratings,Red wine,Italy,€14.90,,,,,Beef
+399,Amarone della Valpolicella Valpantena,Blend,4.2,612 ratings,Red wine,Italy,€29.90,,,,,Beef
+400,Valpolicella Ripasso Superiore,Blend,4.2,585 ratings,Red wine,Italy,€18.20,65.8843%,39.1157%,27.375%,24.4001%,Beef
+401,Douro Manoella Tinto,Touriga Nacional,4.2,578 ratings,Red wine,Portugal,€21.30,71.7367%,52.8367%,10.1277%,44.9849%,Beef
+402,Areni - Khndoghni,Blend,4.2,571 ratings,Red wine,Armenia,€25.40,,,,,Beef
+403,Saint-Émilion Grand Cru (Grand Cru Classé),Blend,4.2,564 ratings,Red wine,France,€28.70,72.6628%,57.7682%,7.28013%,51.9717%,Beef
+404,Amarone della Valpolicella Classico,Corvina,4.2,553 ratings,Red wine,Italy,€29.90,,,,,Beef
+405,Nerìo Riserva Negroamaro - Malvasia Nera,Blend,4.2,545 ratings,Red wine,Italy,€12.95,83.6269%,40.6012%,34.2918%,27.4084%,Beef
+406,Arcanum Il Fauno di Arcanum,Blend,4.2,530 ratings,Red wine,Italy,€26.50,51.8548%,41.4307%,4.59642%,45.2309%,Beef
+407,Fanova Primitivo,Primitivo,4.2,503 ratings,Red wine,Italy,€25,67.5727%,25.0683%,36.9433%,12.9654%,Beef
+408,I Bricchi Barbera d'Asti,Barbera,4.2,501 ratings,Red wine,Italy,€22.80,50.8594%,25.2386%,7.00229%,64.1465%,Beef
+409,Orion Primitivo,Primitivo,4.2,484 ratings,Red wine,Italy,€10.29,65.5868%,21.6653%,38.6786%,16.0694%,Beef
+410,Taurasi Radici,Aglianico,4.2,478 ratings,Red wine,Italy,€26.37,81.6839%,49.2901%,22.3126%,34.106%,Beef
+411,Cum Laude,Cabernet Sauvignon,4.2,469 ratings,Red wine,Italy,€14.90,50.5046%,42.2909%,6.30567%,44.4119%,Beef
+412,Callabriga Douro,Pinot Noir,4.2,465 ratings,Red wine,Portugal,€17.99,77.5955%,54.3614%,12.6526%,41.9917%,Beef
+413,Inferi Montepulciano d'Abruzzo Riserva,Montepulciano,4.2,446 ratings,Red wine,Italy,€25.40,46.2413%,42.098%,6.38153%,64.198%,Beef
+414,Single Vineyard Petit Verdot,Petit Verdot,4.2,435 ratings,Red wine,Uruguay,€25.75,,,,,Beef
+415,Cantine San Giorgio Perchè No?!,Zinfandel,4.2,431 ratings,Red wine,Italy,€17.82,78.3472%,39.1183%,38.8668%,22.4679%,Beef
+416,Lagrein Riserva Gries,Lagrein,4.2,419 ratings,Red wine,Italy,€26.90,64.8413%,42.7982%,17.3143%,31.2882%,Beef
+417,No Name,Nebbiolo,4.2,415 ratings,Red wine,Italy,€29.60,62.7328%,61.8442%,7.63001%,54.2235%,Beef
+418,Collepiano Sagrantino di Montefalco,Sagrantino,4.2,410 ratings,Red wine,Italy,€23.88,57.9385%,53.8636%,8.2557%,46.1687%,Beef
+419,Primitivo Salento Artas,Primitivo,4.2,408 ratings,Red wine,Italy,€24.70,69.3373%,28.5118%,39.1762%,18.3319%,Beef
+420,Pillastro Primitivo Puglia,Primitivo,4.2,401 ratings,Red wine,Italy,€8.50,67.3092%,17.6535%,40.6432%,9.51428%,Beef
+421,Cento X Cento Appassimento Primitivo,Primitivo,4.2,396 ratings,Red wine,Italy,€17.90,69.4961%,19.8931%,50.7095%,10.7114%,Beef
+422,Galileo Colli Pesaresi Sangiovese Riserva,Sangiovese,4.2,389 ratings,Red wine,Italy,€14.80,47.9218%,36.0563%,17.5839%,47.0636%,Beef
+423,Peiragal Barbera d'Alba,Barbera,4.2,375 ratings,Red wine,Italy,€17.80,53.2739%,20.7614%,6.89884%,62.3701%,Beef
+424,Salènde Appassimento Primitivo,Primitivo,4.2,374 ratings,Red wine,Italy,€13.49,65.1632%,22.2692%,44.9044%,17.9891%,Beef
+425,Primitivo Salento Artas,Primitivo,4.2,366 ratings,Red wine,Italy,€29,69.3373%,28.5118%,39.1762%,18.3319%,Beef
+426,Pinot Noir Riserva Monticol,Pinot Nero,4.2,355 ratings,Red wine,Italy,€29,36.9783%,25.6273%,7.86733%,63.8453%,Beef
+427,Varvàra Bolgheri,Cabernet Sauvignon,4.2,346 ratings,Red wine,Italy,€22,66.4236%,65.2064%,7.68974%,54.9075%,Beef
+428,Fanova Primitivo,Primitivo,4.2,343 ratings,Red wine,Italy,€12.70,67.5727%,25.0683%,36.9433%,12.9654%,Beef
+429,Barolo Rocche di Castelletto,Nebbiolo,4.2,336 ratings,Red wine,Italy,€29.30,60.899%,74.9406%,5.70549%,80.3474%,Beef
+430,F Negroamaro,Negroamaro,4.2,333 ratings,Red wine,Italy,€22.44,,,,,Beef
+431,Carapace Montefalco Sagrantino,Sagrantino,4.2,331 ratings,Red wine,Italy,€22.40,60.4445%,56.8342%,5.42688%,47.431%,Beef
+432,Eremo San Quirico,Aglianico,4.2,329 ratings,Red wine,Italy,€16.99,,,,,Beef
+433,Marchesa MariaBella Valpolicella Ripasso,Blend,4.2,325 ratings,Red wine,Italy,€18.80,60.5222%,42.3294%,25.6329%,31.9803%,Beef
+434,Narassa,Blend,4.2,322 ratings,Red wine,France,€13.90,67.1718%,51.9101%,14.1746%,58.8835%,Beef
+435,Sapaio Bolgheri Volpolo,Cabernet Sauvignon,4.2,320 ratings,Red wine,Italy,€23.49,67.6307%,70.3336%,5.37224%,54.4889%,Beef
+436,Il Potere,,4.2,317 ratings,Red wine,Italy,€9.99,79.577%,33.3866%,47.4151%,22.2652%,Beef
+437,1 Uno Primitivo di Manduria Riserva,Primitivo,4.2,310 ratings,Red wine,Italy,€12.99,69.7324%,26.3487%,41.5545%,13.3102%,Beef
+438,Pegrandi Valpolicella Ripasso Classico Superiore,Blend,4.2,309 ratings,Red wine,Italy,€15.20,67.8016%,40.3683%,29.3274%,24.8143%,Beef
+439,Visellio Primitivo,Primitivo,4.2,307 ratings,Red wine,Italy,€29,68.7614%,25.1765%,42.8458%,13.3965%,Beef
+440,Desire Lush & Zin Primitivo,Primitivo,4.2,304 ratings,Red wine,Italy,€15.40,67.2053%,19.5971%,45.0792%,11.9677%,Beef
+441,Terre della Baronia Rosso,Blend,4.2,297 ratings,Red wine,Italy,€14.71,84.8608%,40.4018%,33.228%,29.1026%,Beef
+442,Ronchedone Rosso,Blend,4.2,294 ratings,Red wine,Italy,€16.50,65.5682%,40.5242%,24.1077%,29.6164%,Beef
+443,Riserva Ducale Oro Chianti Classico (Gran Selezione Gold),Sangiovese,4.2,283 ratings,Red wine,Italy,€23.40,48.1019%,54.5522%,3.55564%,64.7421%,Beef
+444,Paxmentis Leggermente Appassito Syrah,Shiraz/Syrah,4.2,282 ratings,Red wine,Italy,€13.70,76.9063%,37.2174%,47.0052%,31.5971%,Beef
+445,Bourbon Barrel Aged Malbec,Malbec,4.2,280 ratings,Red wine,Argentina,€14.50,67.6253%,26.8053%,24.726%,33.1035%,Beef
+446,Amarone della Valpolicella,Blend,4.2,269 ratings,Red wine,Italy,€24.50,,,,,Beef
+447,Coyam,Blend,4.2,266 ratings,Red wine,Chile,€18,,,,,Beef
+448,Aida Montepulciano d'Abruzzo,Montepulciano,4.2,263 ratings,Red wine,Italy,€13.32,38.5589%,41.0195%,5.24244%,66.2114%,Beef
+449,Syrah,Blend,4.2,250 ratings,Red wine,Chile,€26.68,84.3601%,39.3508%,11.6656%,27.0032%,Beef
+450,Amarone della Valpolicella,Blend,4.2,240 ratings,Red wine,Italy,€21.40,,,,,Beef
+451,Terre della Baronia Rosso,Nero d'Avola,4.2,240 ratings,Red wine,Italy,€22.30,84.8608%,40.4018%,33.228%,29.1026%,Beef
+452,Ammasso Rosso Sicilia,Nerello Mascalese,4.2,237 ratings,Red wine,Italy,€17.90,82.2294%,40.607%,31.0666%,27.1177%,Beef
+453,Barolo,Nebbiolo,4.2,235 ratings,Red wine,Italy,€27.99,63.1446%,73.7364%,7.26898%,79.1496%,Beef
+454,Suadens Campania Rosso,Blend,4.2,234 ratings,Red wine,Italy,€13.29,82.7769%,33.0426%,41.8814%,22.9252%,Beef
+455,Sassi Chiusi,Blend,4.2,232 ratings,Red wine,Italy,€21.90,51.4565%,50.3723%,5.92117%,56.6529%,Beef
+456,Sagrantino di Montefalco,Sagrantino,4.2,230 ratings,Red wine,Italy,€29.90,58.2293%,48.1462%,8.66098%,42.6825%,Beef
+457,Amarone della Valpolicella Valpantena,Blend,4.2,227 ratings,Red wine,Italy,€29.80,,,,,Beef
+458,Riserva Salice Salentino,Blend,4.2,224 ratings,Red wine,Italy,€17.71,78.7227%,39.7236%,25.508%,23.9593%,Beef
+459,Camelot,Blend,4.2,218 ratings,Red wine,Italy,€27.30,79.0908%,42.8564%,26.2972%,31.4184%,Beef
+460,Pinot Noir,Pinot Noir,4.2,216 ratings,Red wine,Hungary,€29,,,,,Beef
+461,Brunello di Montalcino,Sangiovese,4.2,213 ratings,Red wine,Italy,€22.90,45.8232%,56.7801%,4.81618%,60.1832%,Beef
+462,Appassimento Primitivo,Primitivo,4.2,214 ratings,Red wine,Italy,€9.90,69.0964%,24.0291%,44.8829%,14.4107%,Beef
+463,Amarone della Valpolicella Classico,Blend,4.2,212 ratings,Red wine,Italy,€25.51,84.2623%,28.3663%,47.1286%,26.8212%,Beef
+464,Korem Bovale Isola dei Nuraghi,Bovale,4.2,210 ratings,Red wine,Italy,€27.79,80.1843%,48.647%,21.2612%,32.5825%,Beef
+465,Cavanna,Nebbiolo,4.2,206 ratings,Red wine,Italy,€22.95,62.2653%,71.9683%,0.495615%,,Beef
+466,Puglia Leggermente Appassite,Blend,4.2,195 ratings,Red wine,Italy,€7.40,75.2989%,35.15%,40.0587%,27.6811%,Beef
+467,Sangiovese,Sangiovese,4.2,195 ratings,Red wine,Italy,€11.40,45.6105%,50.2812%,0.258103%,51.3385%,Beef
+468,Antonio Castagnedi Amarone della Valpolicella,Blend,4.2,192 ratings,Red wine,Italy,€29.50,,,,,Beef
+469,Senes Cannonau de Sardegna Riserva,Grenache,4.2,181 ratings,Red wine,Italy,€22.50,66.7567%,43.6856%,5.08891%,44.4104%,Beef
+470,Sogno Rosso,Merlot,4.2,180 ratings,Red wine,Italy,€17.50,54.8211%,37.4553%,11.4126%,41.6454%,Beef
+471,Châteauneuf-du-Pape,Shiraz/Syrah,4.2,181 ratings,Red wine,France,€29.90,,,,,Beef
+472,Quintessenz Riserva Cabernet Sauvignon,Cabernet Sauvignon,4.2,177 ratings,Red wine,Italy,€29.40,61.3559%,46.891%,20.7102%,35.7327%,Beef
+473,Primitivo - Negroamaro,Blend,4.2,177 ratings,Red wine,Italy,€12.90,73.044%,37.3652%,51.3443%,31.6649%,Beef
+474,Passum Barbera d'Asti Superiore,Barbera,4.2,177 ratings,Red wine,Italy,€28.50,58.4903%,24.9303%,19.342%,60.2294%,Beef
+475,Nebbiolo d’alba,Nebbiolo,4.2,176 ratings,Red wine,Italy,€27,61.4645%,82.3487%,2.60879%,84.9964%,Beef
+476,Mandrone di Lohsa Maremma Toscana Rosso,Blend,4.2,175 ratings,Red wine,Italy,€30,53.9312%,45.3717%,6.11152%,45.9893%,Beef
+477,Primitivo di Manduria Riserva,Primitivo,4.2,175 ratings,Red wine,Italy,€16.90,70.6075%,23.07%,41.3186%,16.2787%,Beef
+478,Valpolicella Ripasso Classico Superiore Le Muraie,Blend,4.2,173 ratings,Red wine,Italy,€17.90,66.7259%,37.122%,26.9873%,24.0608%,Beef
+479,Centenero Amarone della Valpolicella,Blend,4.2,173 ratings,Red wine,Italy,€26,,,,,Beef
+480,Poggio Valente,Sangiovese,4.2,169 ratings,Red wine,Italy,€28,50.9465%,46.5364%,11.806%,47.007%,Beef
+481,Nero per Sempre,Rebo,4.2,168 ratings,Red wine,Italy,€17.90,60.6122%,37.9608%,30.8535%,27.6565%,Beef
+482,Lagrein Riserva Gries,Lagrein,4.2,167 ratings,Red wine,Italy,€22,64.8413%,42.7982%,17.3143%,31.2882%,Beef
+483,Lu Patri Nero d'Avola,Nero d'Avola,4.2,165 ratings,Red wine,Italy,€27.30,77.358%,40.1807%,24.319%,32.3105%,Beef
+484,Jèma Corvina,Corvina,4.2,164 ratings,Red wine,Italy,€22.06,63.5494%,39.9716%,21.6798%,28.4797%,Beef
+485,S.to Ippolito,Blend,4.2,163 ratings,Red wine,Italy,€22.49,56.6676%,29.3605%,29.9322%,38.0355%,Beef
+486,Chianti Classico Riserva,Sangiovese,4.2,159 ratings,Red wine,Italy,€19.80,45.9145%,51.3851%,2.93415%,60.006%,Beef
+487,Saurus Barrel Fermented Malbec,Malbec,4.2,159 ratings,Red wine,Argentina,€26.45,60.1732%,33.8335%,24.0872%,34.9901%,Beef
+488,Barocco Reale Primitivo,Primitivo,4.2,158 ratings,Red wine,Italy,€14.90,68.7895%,25.9504%,41.6878%,15.7943%,Beef
+489,Creative Block 5,Blend,4.2,157 ratings,Red wine,South Africa,€28.77,68.5255%,54.3634%,8.98805%,60.3503%,Beef
+490,Flora Pinot Noir Riserva,Pinot Noir,4.2,155 ratings,Red wine,Italy,€23.80,37.0357%,27.3344%,,,Beef
+491,NeroBaronj,Nero d'Avola,4.2,152 ratings,Red wine,Italy,€19.50,78.1509%,43.9647%,27.4724%,33.4028%,Beef
+492,Barolo,Nebbiolo,4.2,151 ratings,Red wine,Italy,€29.66,60.3975%,78.2828%,5.8399%,81.1481%,Beef
+493,Aleatico Sovana Superiore,Aleatico,4.2,149 ratings,Red wine,Italy,€18.70,45.6822%,32.9974%,40.6039%,44.2059%,Beef
+494,Calaóne Colli Euganei Rosso,Blend,4.2,144 ratings,Red wine,Italy,€22.50,66.2511%,44.0598%,24.8078%,30.2509%,Beef
+495,Carminium,Carménère,4.2,143 ratings,Red wine,Italy,€23.90,65.3261%,38.5386%,8.44822%,34.0305%,Beef
+496,Maria Costanza Rosso,Nero d'Avola,4.2,138 ratings,Red wine,Italy,€29.50,80.2337%,41.3181%,27.0567%,31.9537%,Beef
+497,Barolo,Nebbiolo,4.2,135 ratings,Red wine,Italy,€24.50,65.2034%,78.4946%,7.27062%,77.7019%,Beef
+498,Calinverno,Blend,4.2,136 ratings,Red wine,Italy,€25,70.6861%,39.4095%,33.1168%,22.3095%,Beef
+499,Bricco Paradiso Barbera d'Asti Superiore,Barbera,4.2,133 ratings,Red wine,Italy,€19,59.6892%,26.7242%,10.7208%,60.9527%,Beef
+500,I Progni Valpolicella Ripasso Classico Superiore,Blend,4.2,129 ratings,Red wine,Italy,€16.90,64.0379%,41.3622%,30.8058%,29.3733%,Beef
+501,Primitivo (Since 1913),Primitivo,4.2,127 ratings,Red wine,Italy,€16.90,67.6594%,22.5947%,43.475%,13.3549%,Beef
+502,Podere dei Blumeri,Blend,4.2,127 ratings,Red wine,Italy,€28.50,65.8924%,42.6885%,21.4696%,34.4567%,Beef
+503,Lagrein Perl,Lagrein,4.2,123 ratings,Red wine,Italy,€15.60,59.6651%,37.1977%,14.6857%,33.1496%,Beef
+504,Equinoxe Cabernet - Syrah,Blend,4.2,121 ratings,Red wine,France,€17.43,68.067%,56.3093%,19.2438%,55.2823%,Beef
+505,Lucale Appassimento Primitivo,Primitivo,4.2,120 ratings,Red wine,Italy,€9.04,66.5641%,21.0305%,43.402%,13.0789%,Beef
+506,Classico Cabernet Sauvignon,Cabernet Sauvignon,4.2,114 ratings,Red wine,South Africa,€19.87,73.4789%,58.4657%,11.0102%,55.2869%,Beef
+507,Merlot,Merlot,4.2,108 ratings,Red wine,Italy,€22.80,55.2495%,42.9979%,12.743%,49.4293%,Beef
+508,Marùn Barbera d'Alba Superiore,Barbera,4.2,107 ratings,Red wine,Italy,€23.48,55.8542%,25.6874%,20.3027%,65.7697%,Beef
+509,Ca' Carnocchio Veronese,Blend,4.2,107 ratings,Red wine,Italy,€25.90,64.7983%,35.6674%,18.7797%,28.0679%,Beef
+510,Teresamanara Negroamaro,Negroamaro,4.2,104 ratings,Red wine,Italy,€15.10,79.4293%,40.5409%,29.1088%,26.456%,Beef
+511,Chianti Rufina Vigneto Bucerchiale Riserva,Sangiovese,4.2,102 ratings,Red wine,Italy,€26.70,50.6711%,59.4046%,8.72021%,64.05%,Beef
+512,Madrechiesa Morellino di Scansano Riserva,Sangiovese,4.2,101 ratings,Red wine,Italy,€29.60,54.8447%,42.0644%,12.7201%,44.394%,Beef
+513,Salice Salentino Rosso Riserva,Blend,4.2,100 ratings,Red wine,Italy,€24.90,,,,,Beef
+514,Sud del Sud,Blend,4.2,99 ratings,Red wine,Italy,€13.90,75.7789%,41.6724%,35.0236%,35.5575%,Beef
+515,Frauenhügel Lagrein Riserva,Lagrein,4.2,98 ratings,Red wine,Italy,€22.50,65.7382%,45.5712%,15.5299%,31.7609%,Beef
+516,Raccontami Primitivo di Manduria,Primitivo,4.2,96 ratings,Red wine,Italy,€27.90,68.3565%,27.5636%,42.3884%,17.7393%,Beef
+517,Praesulis Pinot Noir,Pinot Noir,4.2,96 ratings,Red wine,Italy,€29.90,36.743%,25.6601%,,,Beef
+518,Zane Valpolicella Ripasso Classico Superiore,Blend,4.2,94 ratings,Red wine,Italy,€19,61.0593%,37.5967%,27.1601%,26.1929%,Beef
+519,Podere Ritorti Bolgheri Superiore,Blend,4.2,94 ratings,Red wine,Italy,€27.85,63.1771%,63.1737%,9.1436%,50.9736%,Beef
+520,Chianti Classico Riserva,Blend,4.2,94 ratings,Red wine,Italy,€25.90,48.406%,57.9497%,9.3886%,64.8298%,Beef
+521,Riserva Chianti Classico,Sangiovese,4.2,93 ratings,Red wine,Italy,€26.20,48.5632%,57.0501%,7.42736%,63.6798%,Beef
+522,Barbera d'Alba,Barbera,4.2,90 ratings,Red wine,Italy,€15.90,57.8903%,30.0711%,5.56214%,66.8117%,Beef
+523,Carapace Montefalco Sagrantino,Sagrantino,4.2,89 ratings,Red wine,Italy,€22.50,60.4445%,56.8342%,5.42688%,47.431%,Beef
+524,Lourens River Valley,Blend,4.2,89 ratings,Red wine,South Africa,€22,65.2441%,48.5291%,7.38371%,57.514%,Beef
+525,Fico Susumaniello,Susumaniello,4.8,27 ratings,Red wine,Italy,€24.90,75.8029%,36.3297%,31.3312%,24.9804%,Beef
+526,60 Sessantanni Old Vines Primitivo di Manduria,Primitivo,4.5,15958 ratings,Red wine,Italy,€22.90,69.663%,22.9146%,46.7775%,12.1954%,Beef
+527,Limited Edition 10 Vendemmie,Montepulciano,4.5,8892 ratings,Red wine,Italy,€24.30,50.6136%,36.753%,19.4152%,59.7082%,Beef
+528,Fanova Riserva,Primitivo,4.5,135 ratings,Red wine,Italy,€17.40,79.3122%,38.7329%,30.1212%,31.5391%,Beef
+529,Amarone della Valpolicella Classico,Blend,4.5,57 ratings,Red wine,Italy,€27.70,,,,,Beef
+530,Guerriero della Terra,Blend,4.5,41 ratings,Red wine,Italy,€24.90,59.5447%,34.6501%,39.1743%,39.3046%,Beef
+531,Nizza DOCG,Barbera,4.5,33 ratings,Red wine,Italy,€20,63.1152%,32.4413%,2.22174%,43.1739%,Beef
+532,Lucretia Chianti Classico Riserva,Sangiovese,4.5,33 ratings,Red wine,Italy,€26,52.5077%,69.8093%,3.2835%,67.7371%,Beef
+533,Primitivo Salento,Primitivo,4.4,2307 ratings,Red wine,Italy,€18.40,68.2177%,21.1277%,47.6472%,9.69191%,Beef
+534,Guerriero della Terra,Blend,4.4,1421 ratings,Red wine,Italy,€24.95,59.5447%,34.6501%,39.1743%,39.3046%,Beef
+535,Papale Linea Oro Primitivo di Manduria,Primitivo,4.4,1284 ratings,Red wine,Italy,€22.97,68.0154%,22.1595%,43.9264%,12.2737%,Beef
+536,60 Sessantanni Old Vines Primitivo di Manduria,Primitivo,4.4,874 ratings,Red wine,Italy,€23.65,69.663%,22.9146%,46.7775%,12.1954%,Beef
+537,60 Sessantanni Limited Edition Old Vines Primitivo di Manduria,Primitivo,4.4,445 ratings,Red wine,Italy,€27.30,69.4106%,19.7336%,45.9759%,11.1998%,Beef
+538,Liala Negroamaro,Negroamaro,4.4,249 ratings,Red wine,Italy,€23.86,82.4346%,30.3049%,40.8946%,26.0213%,Beef
+539,Cavolo Amarone della Valpolicella,Blend,4.4,238 ratings,Red wine,Italy,€29.89,80.3493%,24.82%,45.7862%,29.1761%,Beef
+540,Primitivo di Manduria,Primitivo,4.4,221 ratings,Red wine,Italy,€29.90,72.0229%,25.4231%,45.3349%,12.2387%,Beef
+541,Il Bacca Old Vine Primitivo di Manduria,Primitivo,4.4,172 ratings,Red wine,Italy,€26.90,68.7786%,26.5763%,43.1435%,13.4977%,Beef
+542,Valpolicella Ripasso Classico Superiore,Blend,4.4,155 ratings,Red wine,Italy,€18.90,66.9617%,38.5803%,33.5744%,26.9165%,Beef
+543,Amarone della Valpolicella,Blend,4.4,145 ratings,Red wine,Italy,€22,,,,,Beef
+544,Paradoxe,Blend,4.4,126 ratings,Red wine,France,€29.90,70.215%,51.281%,16.1654%,56.0027%,Beef
+545,L'Invidio Bolgheri Rosso,Blend,4.4,114 ratings,Red wine,Italy,€17.84,60.1444%,54.468%,9.33844%,46.36%,Beef
+546,Vrucara Nero d'Avola,Nero d'Avola,4.4,94 ratings,Red wine,Italy,€29.99,,,,,Beef
+547,Saracena Primitivo,Primitivo,4.4,92 ratings,Red wine,Italy,€12.20,69.0389%,21.306%,44.0903%,11.5374%,Beef
+548,Mirea Primitivo di Manduria,Primitivo,4.4,85 ratings,Red wine,Italy,€19.20,75.7944%,23.1862%,46.0661%,11.5096%,Beef
+549,I Colli Chianti Classico Riserva,Sangiovese,4.4,76 ratings,Red wine,Italy,€25.89,46.9102%,59.2303%,8.41216%,60.5772%,Beef
+550,Lodolaio Chianti Classico Riserva,Sangiovese,4.4,63 ratings,Red wine,Italy,€27.90,51.3399%,56.0718%,2.45419%,64.1281%,Beef
+551,Ventoux Silica,Blend,4.4,39 ratings,Red wine,France,€28.80,66.6473%,55.7554%,17.1575%,53.7446%,Beef
+552,Taurasi,Aglianico,4.4,29 ratings,Red wine,Italy,€24.90,,,,,Beef
+553,Nauna Primitivo - Negroamaro,Blend,4.4,29 ratings,Red wine,Italy,€18.20,84.5756%,42.3456%,32.0935%,26.7716%,Beef
+554,Iroso,Blend,4.4,28 ratings,Red wine,Italy,€26.50,50.5798%,34.0946%,2.34496%,37.0114%,Beef
+555,Brunello di Montalcino,Sangiovese,4.4,25 ratings,Red wine,Italy,€26.90,47.3318%,61.6828%,,,Beef
+556,Edizione Cinque Autoctoni,Sangiovese,4.3,63677 ratings,Red wine,Italy,€23.99,70.9731%,38.254%,30.4642%,31.5104%,Beef
+557,Cinquanta Collezione,Negroamaro,4.3,36355 ratings,Red wine,Italy,€18.30,,,,,Beef
+558,F Negroamaro,Negroamaro,4.3,1627 ratings,Red wine,Italy,€22.40,,,,,Beef
+559,Amaranta Montepulciano d'Abruzzo,Montepulciano,4.3,1270 ratings,Red wine,Italy,€16.70,44.2605%,38.0908%,15.1877%,61.08%,Beef
+560,Villa Donoratico Bolgheri,Blend,4.3,1207 ratings,Red wine,Italy,€28.90,66.3117%,67.4043%,10.6418%,54.2565%,Beef
+561,Cubardi Primitivo,Primitivo,4.3,790 ratings,Red wine,Italy,€15.29,70.0622%,24.7168%,40.9466%,16.0506%,Beef
+562,Elena La Luna Barbera d'Alba,Barbera,4.3,709 ratings,Red wine,Italy,€19.90,62.434%,20.7051%,18.7754%,59.5645%,Beef
+563,Gran Reserva,Malbec,4.3,653 ratings,Red wine,Argentina,€26.10,,,,,Beef
+564,Harmonium Nero d'Avola,Nero d'Avola,4.3,632 ratings,Red wine,Italy,€27.50,83.9091%,44.8476%,28.109%,29.0225%,Beef
+565,Amarone della Valpolicella Classico,Blend,4.3,566 ratings,Red wine,Italy,€23.90,,,,,Beef
+566,62 Anniversario Primitivo di Manduria Riserva,Primitivo,4.3,562 ratings,Red wine,Italy,€27.20,69.8162%,21.1846%,44.7865%,11.1896%,Beef
+567,Stilio Primitivo di Manduria,Primitivo,4.3,559 ratings,Red wine,Italy,€11.50,70.0308%,21.6412%,45.8288%,13.204%,Beef
+568,La Groletta Amarone della Valpolicella,Blend,4.3,511 ratings,Red wine,Italy,€27.95,82.4305%,26.5422%,47.4486%,25.8193%,Beef
+569,8 Limited Edition,Montepulciano,4.3,396 ratings,Red wine,Italy,€24.40,66.0248%,43.9257%,11.2723%,37.5099%,Beef
+570,Eremo San Quirico Gold,Aglianico,4.3,391 ratings,Red wine,Italy,€18.95,84.5764%,36.89%,40.694%,22.8539%,Beef
+571,Amarone della Valpolicella Classico Lena di Mezzo,Blend,4.3,381 ratings,Red wine,Italy,€27.90,,,,,Beef
+572,Pecoranera Rosso,Nero di Troia,4.3,380 ratings,Red wine,Italy,€11.90,77.7367%,31.5385%,47.8988%,26.4048%,Beef
+573,Paralupi Appassimento,Blend,4.3,341 ratings,Red wine,Italy,€12.90,,,,,Beef
+574,Amarone della Valpolicella Classico,Corvina,4.3,329 ratings,Red wine,Italy,€26,84.8999%,26.0792%,44.3067%,26.3776%,Beef
+575,Antièri Susumaniello,Susumaniello,4.3,318 ratings,Red wine,Italy,€16.40,80.5437%,38.5272%,39.5557%,30.7997%,Beef
+576,Gocce Primitivo di Manduria,Primitivo,4.3,302 ratings,Red wine,Italy,€29.75,67.2456%,22.4184%,50.5186%,11.3384%,Beef
+577,Visellio Primitivo,Primitivo,4.3,287 ratings,Red wine,Italy,€24.99,68.7614%,25.1765%,42.8458%,13.3965%,Beef
+578,Primitivo di Manduria Riserva,Primitivo,4.3,279 ratings,Red wine,Italy,€11.99,69.6118%,20.7974%,44.1206%,17.5456%,Beef
+579,Primitivo,Primitivo,4.3,269 ratings,Red wine,Italy,€14.19,67.3913%,22.4108%,43.6897%,16.479%,Beef
+580,17 Primitivo Gioia del Colle,Primitivo,4.3,253 ratings,Red wine,Italy,€29.90,70.2069%,24.9263%,39.9504%,15.0855%,Beef
+581,Cosimo Varvaglione Collezione Privata Negroamaro del Salento,Negroamaro,4.3,245 ratings,Red wine,Italy,€29.80,76.7037%,36.9437%,29.2564%,32.1497%,Beef
+582,Sonetto Primitivo di Manduria Riserva,Primitivo,4.3,232 ratings,Red wine,Italy,€29.50,67.2201%,27.534%,39.724%,13.5343%,Beef
+583,Alchymia Primitivo,Primitivo,4.3,232 ratings,Red wine,Italy,€12.70,67.3408%,20.8559%,46.7771%,12.3789%,Beef
+584,Susu' Susumaniello,Susumaniello,4.3,220 ratings,Red wine,Italy,€11.40,76.705%,32.2948%,43.7405%,20.4377%,Beef
+585,Elegia Primitivo di Manduria Riserva,Primitivo,4.3,216 ratings,Red wine,Italy,€15.90,67.8678%,26.7458%,46.2798%,15.4155%,Beef
+586,San Giorgio Amarone della Valpolicella,Blend,4.3,176 ratings,Red wine,Italy,€19.99,,,,,Beef
+587,Borgo dei Guidi Sangiovese - Cabernet Sauvignon,Blend,4.3,160 ratings,Red wine,Italy,€19.90,65.2195%,40.8662%,26.1229%,,Beef
+588,Ilmorante Primitivo di Manduria,Primitivo,4.3,155 ratings,Red wine,Italy,€17,74.5738%,22.7912%,51.925%,11.1669%,Beef
+589,Altemura Primitivo di Manduria,Primitivo,4.3,154 ratings,Red wine,Italy,€20.70,67.5797%,28.3509%,39.8101%,19.1283%,Beef
+590,L’Arringatore,Blend,4.3,153 ratings,Red wine,Italy,€26.50,55.2245%,45.6655%,6.81133%,50.3032%,Beef
+591,Toppicello Nero di Troia,Nero di Troia,4.3,129 ratings,Red wine,Italy,€20.90,,,,,Beef
+592,Amarone della Valpolicella Classico Riserva,Blend,4.3,129 ratings,Red wine,Italy,€29.99,71.1875%,28.6719%,43.0156%,34.3438%,Beef
+593,Gelso d'Oro Nero di Troia,Nero di Troia,4.3,108 ratings,Red wine,Italy,€20.95,84.4944%,37.2695%,36.7208%,24.8084%,Beef
+594,Synthesis Malbec,Malbec,4.3,107 ratings,Red wine,Argentina,€29.10,64.5926%,32.9107%,18.3315%,37.0825%,Beef
+595,Nauna Primitivo - Negroamaro,Blend,4.3,105 ratings,Red wine,Italy,€18.30,84.5756%,42.3456%,32.0935%,26.7716%,Beef
+596,Amarone della Valpolicella,Blend,4.3,103 ratings,Red wine,Italy,€26.90,84.4986%,21.0632%,46.9949%,21.6672%,Beef
+597,Canace Nero di Troia,Nero di Troia,4.3,102 ratings,Red wine,Italy,€13.60,84.3022%,38.9155%,40.1889%,23.6558%,Beef
+598,Amarone della Valpolicella,Blend,4.3,99 ratings,Red wine,Italy,€24.95,83.9818%,29.809%,46.1759%,31.4133%,Beef
+599,Amarone della Valpolicella Classico,Blend,4.3,99 ratings,Red wine,Italy,€30,,,,,Beef
+600,Phi 20 Anni,Blend,4.3,96 ratings,Red wine,Italy,€26.80,63.3639%,43.1041%,17.949%,20.7592%,Beef
+601,Bicento,Aglianico,4.3,96 ratings,Red wine,Italy,€19.95,84.4253%,37.3267%,38.302%,24.0235%,Beef
+602,17 Primitivo Gioia del Colle,Primitivo,4.3,94 ratings,Red wine,Italy,€20.90,70.2069%,24.9263%,39.9504%,15.0855%,Beef
+603,Casale Ciliani Malvasia - Primitivo,Blend,4.3,91 ratings,Red wine,Italy,€12.47,81.2967%,42.5%,35.2199%,23.1795%,Beef
+604,Primitivo,Primitivo,4.3,86 ratings,Red wine,Italy,€14.50,67.3706%,21.7524%,44.7362%,12.6561%,Beef
+605,L'Andrea,Sangiovese,4.3,83 ratings,Red wine,Italy,€24,59.0912%,45.9726%,7.0463%,40.5704%,Beef
+606,Rosso 17°,Primitivo,4.3,79 ratings,Red wine,Italy,€22.90,74.0469%,22.0566%,39.2864%,17.0785%,Beef
+607,Rovente Morellino di Scansano,Sangiovese,4.3,78 ratings,Red wine,Italy,€25.99,59.3137%,44.1636%,15.9735%,40.3216%,Beef
+608,El Cencio Rosso Verona,Blend,4.3,78 ratings,Red wine,Italy,€27.20,65.7488%,41.4167%,20.5263%,27.6636%,Beef
+609,Época Rdeće Rosso,Blend,4.3,74 ratings,Red wine,Slovenia,€26.30,,,,,Beef
+610,Lagrein Riserva,Lagrein,4.3,72 ratings,Red wine,Italy,€29.40,64.6014%,43.0971%,19.0659%,32.609%,Beef
+611,Robbione,Vernaccia,4.3,71 ratings,Red wine,Italy,€27.50,61.9815%,42.9835%,16.7153%,45.0844%,Beef
+612,16 Primitivo Gioia del Colle,Primitivo,4.3,66 ratings,Red wine,Italy,€21.70,68.7155%,24.5739%,40.1352%,17.2087%,Beef
+613,Don Luigi Riserva,Blend,4.3,65 ratings,Red wine,Italy,€29.50,84.2465%,48.2917%,29.1152%,30.4572%,Beef
+614,Santufili Primitivo,Primitivo,4.3,64 ratings,Red wine,Italy,€21.80,66.621%,21.9965%,44.9727%,14.024%,Beef
+615,Il Ritardatario Primitivo di Manduria Dolce Naturale,Primitivo,4.3,62 ratings,Red wine,Italy,€19.95,69.8327%,16.8243%,56.868%,6.2119%,Beef
+616,Teroldego,Teroldego,4.3,59 ratings,Red wine,Italy,€27.50,67.8164%,40.078%,21.6105%,27.7751%,Beef
+617,Cubardi Primitivo,Primitivo,4.3,59 ratings,Red wine,Italy,€14.80,70.0622%,24.7168%,40.9466%,16.0506%,Beef
+618,Le Grive,Blend,4.3,58 ratings,Red wine,Italy,€22.90,67.0782%,38.2887%,18.6699%,28.7266%,Beef
+619,Symbol Primitivo,Primitivo,4.3,57 ratings,Red wine,Italy,€25.90,66.1775%,29.2681%,39.1208%,13.9118%,Beef
+620,Montefalco Sagrantino,Sagrantino,4.3,56 ratings,Red wine,Italy,€22.20,57.4796%,50.76%,10.9822%,47.3912%,Beef
+621,Aragone Maremma Toscana,Blend,4.3,51 ratings,Red wine,Italy,€19.22,52.6889%,43.5001%,7.32319%,45.9704%,Beef
+622,Torre a Destra Riserva Chianti Classico,Sangiovese,4.3,50 ratings,Red wine,Italy,€29.10,48.5691%,56.6024%,8.45649%,61.3662%,Beef
+623,Lu Patri Nero d'Avola,Nero d'Avola,4.3,48 ratings,Red wine,Italy,€23.80,77.358%,40.1807%,24.319%,32.3105%,Beef
+624,Shiraz - Mourvedre - Viognier,Blend,4.3,43 ratings,Red wine,South Africa,€15.55,,,,,Beef
+625,Ad Hoc Primitivo di Manduria,Primitivo,4.3,42 ratings,Red wine,Italy,€13.90,64.9378%,25.2807%,49.7477%,17.6507%,Beef
+626,Rosone,Negroamaro,4.3,42 ratings,Red wine,Italy,€12.14,77.1772%,34.4767%,41.0449%,24.9069%,Beef
+627,Amarone della Valpolicella,Blend,4.3,40 ratings,Red wine,Italy,€24.99,,,,,Beef
+628,Primo Morellino di Scansano Riserva,Blend,4.3,39 ratings,Red wine,Italy,€29.80,53.1324%,54.9256%,,,Beef
+629,Syrah di Macellarotto,Shiraz/Syrah,4.3,37 ratings,Red wine,Italy,€25.20,83.3254%,48.623%,28.5426%,27.4205%,Beef
+630,Petraro,Blend,4.3,37 ratings,Red wine,Italy,€27.90,,,,,Beef
+631,Lui Nero di Troia,Nero di Troia,4.3,36 ratings,Red wine,Italy,€25.90,,,,,Beef
+632,Cuvée Georges Meunier Saint-Émilion Grand Cru,Blend,4.3,36 ratings,Red wine,France,€22.49,73.9399%,64.2274%,2.41537%,56.7087%,Beef
+633,Montefalco Sagrantino,Sagrantino,4.3,35 ratings,Red wine,Italy,€25,55.7636%,42.557%,12.9039%,35.6597%,Beef
+634,Il Nito,Blend,4.3,34 ratings,Red wine,Italy,€20,66.076%,46.051%,30.606%,22.352%,Beef
+635,Il Vescovo,Blend,4.3,34 ratings,Red wine,Italy,€20,81.6631%,43.2433%,39.2446%,30.7867%,Beef
+636,Loggia del Sole Governo All'Uso Toscana,Sangiovese,4.3,34 ratings,Red wine,Italy,€7,49.5118%,38.3422%,17.7344%,46.0569%,Beef
+637,Cento Su Cento Primitivo,Primitivo,4.3,32 ratings,Red wine,Italy,€27.90,68.3202%,24.4202%,47.6146%,13.8887%,Beef
+638,Cinco Elementos Essentia,Tempranillo,4.3,31 ratings,Red wine,Spain,€17.99,65.1742%,54.3492%,11.5529%,57.5013%,Beef
+639,Vespa Rosso,Merlot,4.3,29 ratings,Red wine,Italy,€26.40,66.2472%,40.2631%,20.706%,31.3408%,Beef
+640,Moscheta Nera Amarone della Valpolicella,Blend,4.3,29 ratings,Red wine,Italy,€21.36,72.8206%,25.0199%,40.6412%,35.804%,Beef
+641,Barbera d'Alba,Barbera,4.3,26 ratings,Red wine,Italy,€17.90,58.3189%,16.5866%,,,Beef
+642,Cinco Elementos,Tempranillo,4.3,25 ratings,Red wine,Spain,€11.99,59.039%,54.1143%,14.3656%,56.8608%,Beef
+643,Merlot Drago Rosso,Merlot,4.3,25 ratings,Red wine,Italy,€10.90,,,,,Beef
+644,Mucho Más Tinto,Blend,4.2,48219 ratings,Red wine,Spain,€8.99,63.0038%,38.2536%,33.2158%,33.2578%,Beef
+645,Ripassa Valpolicella Ripasso Superiore,Blend,4.2,10056 ratings,Red wine,Italy,€15.49,67.0481%,35.085%,29.2163%,22.7188%,Beef
+646,Ripassa Valpolicella Ripasso Superiore,Rondinella,4.2,5805 ratings,Red wine,Italy,€17.50,67.0481%,35.085%,29.2163%,22.7188%,Beef
+647,Ribera del Duero,Tempranillo,4.2,5724 ratings,Red wine,Spain,€21.70,64.9991%,54.5192%,10.6866%,60.595%,Beef
+648,The Chocolate Block,Blend,4.2,4368 ratings,Red wine,South Africa,€23.99,,,,,Beef
+649,Masserie Primitivo,Primitivo,4.2,3886 ratings,Red wine,Italy,€12.90,62.6699%,25.4251%,45.2473%,19.4306%,Beef
+650,José Malbec,Malbec,4.2,2196 ratings,Red wine,Argentina,€29.90,66.7411%,39.3201%,15.6124%,39.2497%,Beef
+651,Ca' de' Rocchi Valpolicella Ripasso Superiore Monterè,Blend,4.2,2058 ratings,Red wine,Italy,€15.39,66.8818%,34.7561%,30.2311%,22.4041%,Beef
+652,Malbec (I),Malbec,4.2,1912 ratings,Red wine,Argentina,€24.80,62.5115%,32.6734%,18.3917%,34.4592%,Beef
+653,Classique,Blend,4.2,1873 ratings,Red wine,South Africa,€27.10,64.7905%,49.2464%,7.556%,60.1267%,Beef
+654,Lu Rappaio Primitivo di Manduria,Primitivo,4.2,1694 ratings,Red wine,Italy,€12.90,67.7214%,23.1185%,44.4511%,14.6226%,Beef
+655,La Casetta Valpolicella Ripasso Classico Superiore,Blend,4.2,1664 ratings,Red wine,Italy,€13.94,66.6491%,36.3403%,31.525%,22.9511%,Beef
+656,Cabernet - Malbec,Blend,4.2,1485 ratings,Red wine,Argentina,€23.50,71.2937%,45.9182%,14.5913%,42.4353%,Beef
+657,Vino Nobile di Montepulciano,Blend,4.2,1311 ratings,Red wine,Italy,€24,54.7143%,57.0804%,5.88582%,64.5915%,Beef
+658,Cedro do Noval,Blend,4.2,1248 ratings,Red wine,Portugal,€24.96,74.4362%,53.2223%,10.9323%,44.3816%,Beef
+659,Amarone della Valpolicella,Blend,4.2,1180 ratings,Red wine,Italy,€26.90,,,,,Beef
+660,Montepulciano d'Abruzzo Riserva,Montepulciano,4.2,1166 ratings,Red wine,Italy,€23.80,42.7306%,45.3994%,6.6915%,65.3746%,Beef
+661,Feudo Croce Imperio LXXIV Primitivo di Manduria,Primitivo,4.2,1146 ratings,Red wine,Italy,€20.70,69.6235%,24.2827%,40.8744%,12.9245%,Beef
+662,Piano Chiuso Riserva Primitivo di Manduria,Primitivo,4.2,975 ratings,Red wine,Italy,€24.20,74.2312%,33.3548%,40.1037%,20.9578%,Beef
+663,Susumaniello,Susumaniello,4.2,904 ratings,Red wine,Italy,€11.30,83.6474%,35.814%,40.3253%,22.3489%,Beef
+664,Appassimento,Blend,4.2,895 ratings,Red wine,Italy,€8.90,73.0003%,27.4616%,47.5646%,18.8343%,Beef
+665,Montepulciano d'Abruzzo (Unico),Montepulciano,4.2,857 ratings,Red wine,Italy,€10,42.209%,39.474%,10.1553%,61.0113%,Beef
+666,Carapace Montefalco Sagrantino,Sagrantino,4.1,839 ratings,Red wine,Italy,€25.90,60.4445%,56.8342%,5.42688%,47.431%,Beef
+667,Valpolicella Ripasso Superiore,Blend,4.2,740 ratings,Red wine,Italy,€23,66.3285%,39.0771%,33.5913%,24.075%,Beef
+668,Brunello di Montalcino,Sangiovese,4.2,717 ratings,Red wine,Italy,€26.90,46.0837%,54.7271%,4.38097%,63.6243%,Beef
+669,Passo del Cardinale Primitivo di Manduria,Primitivo,4.2,708 ratings,Red wine,Italy,€10.50,66.5998%,25.2242%,40.335%,19.5742%,Beef
+670,Riserva Ducale Oro Chianti Classico (Gran Selezione Gold),Sangiovese,4.2,683 ratings,Red wine,Italy,€23.50,48.1019%,54.5522%,3.55564%,64.7421%,Beef
+671,Li Filitti Riserva Primitivo di Manduria,Primitivo,4.2,678 ratings,Red wine,Italy,€13.70,68.8189%,26.4684%,43.8857%,16.4003%,Beef
+672,Il Frappato Sicilia,Frappato,4.2,659 ratings,Red wine,Italy,€28.95,70.2674%,42.6338%,22.6412%,37.6368%,Beef
+673,Blu Onice Aglianico Irpinia,Aglianico,4.2,631 ratings,Red wine,Italy,€14.90,,,,,Beef
+674,Amarone della Valpolicella Valpantena,Blend,4.2,612 ratings,Red wine,Italy,€29.90,,,,,Beef
+675,Valpolicella Ripasso Superiore,Blend,4.2,585 ratings,Red wine,Italy,€18.20,65.8843%,39.1157%,27.375%,24.4001%,Beef
+676,Douro Manoella Tinto,Touriga Nacional,4.2,578 ratings,Red wine,Portugal,€21.30,71.7367%,52.8367%,10.1277%,44.9849%,Beef
+677,Areni - Khndoghni,Blend,4.2,571 ratings,Red wine,Armenia,€25.40,,,,,Beef
+678,Saint-Émilion Grand Cru (Grand Cru Classé),Blend,4.2,564 ratings,Red wine,France,€28.70,72.6628%,57.7682%,7.28013%,51.9717%,Beef
+679,Amarone della Valpolicella Classico,Corvina,4.2,553 ratings,Red wine,Italy,€29.90,,,,,Beef
+680,Nerìo Riserva Negroamaro - Malvasia Nera,Blend,4.2,545 ratings,Red wine,Italy,€12.95,83.6269%,40.6012%,34.2918%,27.4084%,Beef
+681,Arcanum Il Fauno di Arcanum,Blend,4.2,530 ratings,Red wine,Italy,€26.50,51.8548%,41.4307%,4.59642%,45.2309%,Beef
+682,Fanova Primitivo,Primitivo,4.2,503 ratings,Red wine,Italy,€25,67.5727%,25.0683%,36.9433%,12.9654%,Beef
+683,I Bricchi Barbera d'Asti,Barbera,4.2,501 ratings,Red wine,Italy,€22.80,50.8594%,25.2386%,7.00229%,64.1465%,Beef
+684,Orion Primitivo,Primitivo,4.2,484 ratings,Red wine,Italy,€10.29,65.5868%,21.6653%,38.6786%,16.0694%,Beef
+685,Taurasi Radici,Aglianico,4.2,478 ratings,Red wine,Italy,€26.37,81.6839%,49.2901%,22.3126%,34.106%,Beef
+686,Cum Laude,Cabernet Sauvignon,4.2,469 ratings,Red wine,Italy,€14.90,50.5046%,42.2909%,6.30567%,44.4119%,Beef
+687,Callabriga Douro,Pinot Noir,4.2,465 ratings,Red wine,Portugal,€17.99,77.5955%,54.3614%,12.6526%,41.9917%,Beef
+688,Inferi Montepulciano d'Abruzzo Riserva,Montepulciano,4.2,446 ratings,Red wine,Italy,€25.40,46.2413%,42.098%,6.38153%,64.198%,Beef
+689,Single Vineyard Petit Verdot,Petit Verdot,4.2,435 ratings,Red wine,Uruguay,€25.75,,,,,Beef
+690,Cantine San Giorgio Perchè No?!,Zinfandel,4.2,431 ratings,Red wine,Italy,€17.82,78.3472%,39.1183%,38.8668%,22.4679%,Beef
+691,Lagrein Riserva Gries,Lagrein,4.2,419 ratings,Red wine,Italy,€26.90,64.8413%,42.7982%,17.3143%,31.2882%,Beef
+692,No Name,Nebbiolo,4.2,415 ratings,Red wine,Italy,€29.60,62.7328%,61.8442%,7.63001%,54.2235%,Beef
+693,Collepiano Sagrantino di Montefalco,Sagrantino,4.2,410 ratings,Red wine,Italy,€23.88,57.9385%,53.8636%,8.2557%,46.1687%,Beef
+694,Primitivo Salento Artas,Primitivo,4.2,408 ratings,Red wine,Italy,€24.70,69.3373%,28.5118%,39.1762%,18.3319%,Beef
+695,Pillastro Primitivo Puglia,Primitivo,4.2,401 ratings,Red wine,Italy,€8.50,67.3092%,17.6535%,40.6432%,9.51428%,Beef
+696,Cento X Cento Appassimento Primitivo,Primitivo,4.2,396 ratings,Red wine,Italy,€17.90,69.4961%,19.8931%,50.7095%,10.7114%,Beef
+697,Galileo Colli Pesaresi Sangiovese Riserva,Sangiovese,4.2,389 ratings,Red wine,Italy,€14.80,47.9218%,36.0563%,17.5839%,47.0636%,Beef
+698,Peiragal Barbera d'Alba,Barbera,4.2,375 ratings,Red wine,Italy,€17.80,53.2739%,20.7614%,6.89884%,62.3701%,Beef
+699,Salènde Appassimento Primitivo,Primitivo,4.2,374 ratings,Red wine,Italy,€13.49,65.1632%,22.2692%,44.9044%,17.9891%,Beef
+700,Primitivo Salento Artas,Primitivo,4.2,366 ratings,Red wine,Italy,€29,69.3373%,28.5118%,39.1762%,18.3319%,Beef
+701,Pinot Noir Riserva Monticol,Pinot Nero,4.2,355 ratings,Red wine,Italy,€29,36.9783%,25.6273%,7.86733%,63.8453%,Beef
+702,Varvàra Bolgheri,Cabernet Sauvignon,4.2,346 ratings,Red wine,Italy,€22,66.4236%,65.2064%,7.68974%,54.9075%,Beef
+703,Fanova Primitivo,Primitivo,4.2,343 ratings,Red wine,Italy,€12.70,67.5727%,25.0683%,36.9433%,12.9654%,Beef
+704,Barolo Rocche di Castelletto,Nebbiolo,4.2,336 ratings,Red wine,Italy,€29.30,60.899%,74.9406%,5.70549%,80.3474%,Beef
+705,F Negroamaro,Negroamaro,4.2,333 ratings,Red wine,Italy,€22.44,,,,,Beef
+706,Carapace Montefalco Sagrantino,Sagrantino,4.2,331 ratings,Red wine,Italy,€22.40,60.4445%,56.8342%,5.42688%,47.431%,Beef
+707,Eremo San Quirico,Aglianico,4.2,329 ratings,Red wine,Italy,€16.99,,,,,Beef
+708,Marchesa MariaBella Valpolicella Ripasso,Blend,4.2,325 ratings,Red wine,Italy,€18.80,60.5222%,42.3294%,25.6329%,31.9803%,Beef
+709,Narassa,Blend,4.2,322 ratings,Red wine,France,€13.90,67.1718%,51.9101%,14.1746%,58.8835%,Beef
+710,Sapaio Bolgheri Volpolo,Cabernet Sauvignon,4.2,320 ratings,Red wine,Italy,€23.49,67.6307%,70.3336%,5.37224%,54.4889%,Beef
+711,Il Potere,,4.2,317 ratings,Red wine,Italy,€9.99,79.577%,33.3866%,47.4151%,22.2652%,Beef
+712,1 Uno Primitivo di Manduria Riserva,Primitivo,4.2,310 ratings,Red wine,Italy,€12.99,69.7324%,26.3487%,41.5545%,13.3102%,Beef
+713,Pegrandi Valpolicella Ripasso Classico Superiore,Blend,4.2,309 ratings,Red wine,Italy,€15.20,67.8016%,40.3683%,29.3274%,24.8143%,Beef
+714,Visellio Primitivo,Primitivo,4.2,307 ratings,Red wine,Italy,€29,68.7614%,25.1765%,42.8458%,13.3965%,Beef
+715,Desire Lush & Zin Primitivo,Primitivo,4.2,304 ratings,Red wine,Italy,€15.40,67.2053%,19.5971%,45.0792%,11.9677%,Beef
+716,Terre della Baronia Rosso,Blend,4.2,297 ratings,Red wine,Italy,€14.71,84.8608%,40.4018%,33.228%,29.1026%,Beef
+717,Ronchedone Rosso,Blend,4.2,294 ratings,Red wine,Italy,€16.50,65.5682%,40.5242%,24.1077%,29.6164%,Beef
+718,Riserva Ducale Oro Chianti Classico (Gran Selezione Gold),Sangiovese,4.2,283 ratings,Red wine,Italy,€23.40,48.1019%,54.5522%,3.55564%,64.7421%,Beef
+719,Paxmentis Leggermente Appassito Syrah,Shiraz/Syrah,4.2,282 ratings,Red wine,Italy,€13.70,76.9063%,37.2174%,47.0052%,31.5971%,Beef
+720,Bourbon Barrel Aged Malbec,Malbec,4.2,280 ratings,Red wine,Argentina,€14.50,67.6253%,26.8053%,24.726%,33.1035%,Beef
+721,Amarone della Valpolicella,Blend,4.2,270 ratings,Red wine,Italy,€24.50,,,,,Beef
+722,Coyam,Blend,4.2,266 ratings,Red wine,Chile,€18,,,,,Beef
+723,Aida Montepulciano d'Abruzzo,Montepulciano,4.2,263 ratings,Red wine,Italy,€13.32,38.5589%,41.0195%,5.24244%,66.2114%,Beef
+724,Syrah,Blend,4.2,250 ratings,Red wine,Chile,€26.68,84.3601%,39.3508%,11.6656%,27.0032%,Beef
+725,Amarone della Valpolicella,Blend,4.2,240 ratings,Red wine,Italy,€21.40,,,,,Beef
+726,Terre della Baronia Rosso,Nero d'Avola,4.2,240 ratings,Red wine,Italy,€22.30,84.8608%,40.4018%,33.228%,29.1026%,Beef
+727,Ammasso Rosso Sicilia,Nerello Mascalese,4.2,237 ratings,Red wine,Italy,€17.90,82.2294%,40.607%,31.0666%,27.1177%,Beef
+728,Barolo,Nebbiolo,4.2,235 ratings,Red wine,Italy,€27.99,63.1446%,73.7364%,7.26898%,79.1496%,Beef
+729,Suadens Campania Rosso,Blend,4.2,234 ratings,Red wine,Italy,€13.30,82.7769%,33.0426%,41.8814%,22.9252%,Beef
+730,Sassi Chiusi,Blend,4.2,232 ratings,Red wine,Italy,€21.90,51.4565%,50.3723%,5.92117%,56.6529%,Beef
+731,Sagrantino di Montefalco,Sagrantino,4.2,230 ratings,Red wine,Italy,€29.90,58.2293%,48.1462%,8.66098%,42.6825%,Beef
+732,Amarone della Valpolicella Valpantena,Blend,4.2,227 ratings,Red wine,Italy,€29.80,,,,,Beef
+733,Riserva Salice Salentino,Blend,4.2,224 ratings,Red wine,Italy,€17.71,78.7227%,39.7236%,25.508%,23.9593%,Beef
+734,Camelot,Blend,4.2,218 ratings,Red wine,Italy,€27.30,79.0908%,42.8564%,26.2972%,31.4184%,Beef
+735,Pinot Noir,Pinot Noir,4.2,216 ratings,Red wine,Hungary,€29,,,,,Beef
+736,Brunello di Montalcino,Sangiovese,4.2,213 ratings,Red wine,Italy,€22.90,45.8232%,56.7801%,4.81618%,60.1832%,Beef
+737,Appassimento Primitivo,Primitivo,4.2,214 ratings,Red wine,Italy,€9.90,69.0964%,24.0291%,44.8829%,14.4107%,Beef
+738,Amarone della Valpolicella Classico,Blend,4.2,212 ratings,Red wine,Italy,€25.51,84.2623%,28.3663%,47.1286%,26.8212%,Beef
+739,Korem Bovale Isola dei Nuraghi,Bovale,4.2,210 ratings,Red wine,Italy,€27.79,80.1843%,48.647%,21.2612%,32.5825%,Beef
+740,Cavanna,Nebbiolo,4.2,206 ratings,Red wine,Italy,€22.95,62.2653%,71.9683%,0.495615%,,Beef
+741,Puglia Leggermente Appassite,Blend,4.2,195 ratings,Red wine,Italy,€7.40,75.2989%,35.15%,40.0587%,27.6811%,Beef
+742,Sangiovese,Sangiovese,4.2,195 ratings,Red wine,Italy,€11.40,45.6105%,50.2812%,0.258103%,51.3385%,Beef
+743,Antonio Castagnedi Amarone della Valpolicella,Blend,4.2,192 ratings,Red wine,Italy,€29.50,,,,,Beef
+744,Senes Cannonau de Sardegna Riserva,Grenache,4.2,181 ratings,Red wine,Italy,€22.50,66.7567%,43.6856%,5.08891%,44.4104%,Beef
+745,Sogno Rosso,Merlot,4.2,180 ratings,Red wine,Italy,€17.50,54.8211%,37.4553%,11.4126%,41.6454%,Beef
+746,Châteauneuf-du-Pape,Shiraz/Syrah,4.2,181 ratings,Red wine,France,€29.90,,,,,Beef
+747,Quintessenz Riserva Cabernet Sauvignon,Cabernet Sauvignon,4.2,177 ratings,Red wine,Italy,€29.40,61.3559%,46.891%,20.7102%,35.7327%,Beef
+748,Primitivo - Negroamaro,Blend,4.2,177 ratings,Red wine,Italy,€12.90,73.044%,37.3652%,51.3443%,31.6649%,Beef
+749,Passum Barbera d'Asti Superiore,Barbera,4.2,177 ratings,Red wine,Italy,€28.50,58.4903%,24.9303%,19.342%,60.2294%,Beef
+750,Nebbiolo d’alba,Nebbiolo,4.2,176 ratings,Red wine,Italy,€27,61.4645%,82.3487%,2.60879%,84.9964%,Beef
+751,Mandrone di Lohsa Maremma Toscana Rosso,Blend,4.2,175 ratings,Red wine,Italy,€30,53.9312%,45.3717%,6.11152%,45.9893%,Beef
+752,Primitivo di Manduria Riserva,Primitivo,4.2,175 ratings,Red wine,Italy,€16.90,70.6075%,23.07%,41.3186%,16.2787%,Beef
+753,Valpolicella Ripasso Classico Superiore Le Muraie,Blend,4.2,173 ratings,Red wine,Italy,€17.90,66.7259%,37.122%,26.9873%,24.0608%,Beef
+754,Centenero Amarone della Valpolicella,Blend,4.2,173 ratings,Red wine,Italy,€26,,,,,Beef
+755,Poggio Valente,Sangiovese,4.2,169 ratings,Red wine,Italy,€28,50.9465%,46.5364%,11.806%,47.007%,Beef
+756,Nero per Sempre,Rebo,4.2,168 ratings,Red wine,Italy,€17.90,60.6122%,37.9608%,30.8535%,27.6565%,Beef
+757,Lagrein Riserva Gries,Lagrein,4.2,167 ratings,Red wine,Italy,€22,64.8413%,42.7982%,17.3143%,31.2882%,Beef
+758,Lu Patri Nero d'Avola,Nero d'Avola,4.2,165 ratings,Red wine,Italy,€27.30,77.358%,40.1807%,24.319%,32.3105%,Beef
+759,Jèma Corvina,Corvina,4.2,164 ratings,Red wine,Italy,€22.06,63.5494%,39.9716%,21.6798%,28.4797%,Beef
+760,S.to Ippolito,Blend,4.2,163 ratings,Red wine,Italy,€22.49,56.6676%,29.3605%,29.9322%,38.0355%,Beef
+761,Chianti Classico Riserva,Sangiovese,4.2,159 ratings,Red wine,Italy,€19.80,45.9145%,51.3851%,2.93415%,60.006%,Beef
+762,Saurus Barrel Fermented Malbec,Malbec,4.2,159 ratings,Red wine,Argentina,€26.45,60.1732%,33.8335%,24.0872%,34.9901%,Beef
+763,Barocco Reale Primitivo,Primitivo,4.2,158 ratings,Red wine,Italy,€14.90,68.7895%,25.9504%,41.6878%,15.7943%,Beef
+764,Creative Block 5,Blend,4.2,157 ratings,Red wine,South Africa,€28.77,68.5255%,54.3634%,8.98805%,60.3503%,Beef
+765,Flora Pinot Noir Riserva,Pinot Noir,4.2,155 ratings,Red wine,Italy,€23.80,37.0357%,27.3344%,,,Beef
+766,NeroBaronj,Nero d'Avola,4.2,152 ratings,Red wine,Italy,€19.50,78.1509%,43.9647%,27.4724%,33.4028%,Beef
+767,Barolo,Nebbiolo,4.2,151 ratings,Red wine,Italy,€29.66,60.3975%,78.2828%,5.8399%,81.1481%,Beef
+768,Aleatico Sovana Superiore,Aleatico,4.2,149 ratings,Red wine,Italy,€18.70,45.6822%,32.9974%,40.6039%,44.2059%,Beef
+769,Calaóne Colli Euganei Rosso,Blend,4.2,144 ratings,Red wine,Italy,€22.50,66.2511%,44.0598%,24.8078%,30.2509%,Beef
+770,Carminium,Carménère,4.2,143 ratings,Red wine,Italy,€23.90,65.3261%,38.5386%,8.44822%,34.0305%,Beef
+771,Maria Costanza Rosso,Nero d'Avola,4.2,138 ratings,Red wine,Italy,€29.50,80.2337%,41.3181%,27.0567%,31.9537%,Beef
+772,Barolo,Nebbiolo,4.2,135 ratings,Red wine,Italy,€24.50,65.2034%,78.4946%,7.27062%,77.7019%,Beef
+773,Calinverno,Blend,4.2,136 ratings,Red wine,Italy,€25,70.6861%,39.4095%,33.1168%,22.3095%,Beef
+774,Bricco Paradiso Barbera d'Asti Superiore,Barbera,4.2,133 ratings,Red wine,Italy,€19,59.6892%,26.7242%,10.7208%,60.9527%,Beef
+775,I Progni Valpolicella Ripasso Classico Superiore,Blend,4.2,130 ratings,Red wine,Italy,€16.90,64.0379%,41.3622%,30.8058%,29.3733%,Beef
+776,Primitivo (Since 1913),Primitivo,4.2,127 ratings,Red wine,Italy,€16.90,67.6594%,22.5947%,43.475%,13.3549%,Beef
+777,Podere dei Blumeri,Blend,4.2,127 ratings,Red wine,Italy,€28.50,65.8924%,42.6885%,21.4696%,34.4567%,Beef
+778,Lagrein Perl,Lagrein,4.2,123 ratings,Red wine,Italy,€15.60,59.6651%,37.1977%,14.6857%,33.1496%,Beef
+779,Equinoxe Cabernet - Syrah,Blend,4.2,121 ratings,Red wine,France,€17.43,68.067%,56.3093%,19.2438%,55.2823%,Beef
+780,Lucale Appassimento Primitivo,Primitivo,4.2,120 ratings,Red wine,Italy,€9.04,66.5641%,21.0305%,43.402%,13.0789%,Beef
+781,Classico Cabernet Sauvignon,Cabernet Sauvignon,4.2,114 ratings,Red wine,South Africa,€19.87,73.4789%,58.4657%,11.0102%,55.2869%,Beef
+782,Merlot,Merlot,4.2,108 ratings,Red wine,Italy,€22.80,55.2495%,42.9979%,12.743%,49.4293%,Beef
+783,Marùn Barbera d'Alba Superiore,Barbera,4.2,107 ratings,Red wine,Italy,€23.48,55.8542%,25.6874%,20.3027%,65.7697%,Beef
+784,Ca' Carnocchio Veronese,Blend,4.2,107 ratings,Red wine,Italy,€25.90,64.7983%,35.6674%,18.7797%,28.0679%,Beef
+785,Teresamanara Negroamaro,Negroamaro,4.2,104 ratings,Red wine,Italy,€15.10,79.4293%,40.5409%,29.1088%,26.456%,Beef
+786,Chianti Rufina Vigneto Bucerchiale Riserva,Sangiovese,4.2,102 ratings,Red wine,Italy,€26.70,50.6711%,59.4046%,8.72021%,64.05%,Beef
+787,Madrechiesa Morellino di Scansano Riserva,Sangiovese,4.2,101 ratings,Red wine,Italy,€29.60,54.8447%,42.0644%,12.7201%,44.394%,Beef
+788,Salice Salentino Rosso Riserva,Blend,4.2,100 ratings,Red wine,Italy,€24.90,,,,,Beef
+789,Sud del Sud,Blend,4.2,99 ratings,Red wine,Italy,€13.90,75.7789%,41.6724%,35.0236%,35.5575%,Beef
+790,Frauenhügel Lagrein Riserva,Lagrein,4.2,98 ratings,Red wine,Italy,€22.50,65.7382%,45.5712%,15.5299%,31.7609%,Beef
+791,Raccontami Primitivo di Manduria,Primitivo,4.2,96 ratings,Red wine,Italy,€27.90,68.3494%,27.567%,42.3878%,17.8357%,Beef
+792,Praesulis Pinot Noir,Pinot Noir,4.2,96 ratings,Red wine,Italy,€29.90,36.743%,25.6601%,,,Beef
+793,Zane Valpolicella Ripasso Classico Superiore,Blend,4.2,94 ratings,Red wine,Italy,€19,61.0593%,37.5967%,27.1601%,26.1929%,Beef
+794,Podere Ritorti Bolgheri Superiore,Blend,4.2,94 ratings,Red wine,Italy,€27.85,63.1771%,63.1737%,9.1436%,50.9736%,Beef
+795,Chianti Classico Riserva,Blend,4.2,94 ratings,Red wine,Italy,€25.90,48.406%,57.9497%,9.3886%,64.8298%,Beef
+796,Riserva Chianti Classico,Sangiovese,4.2,93 ratings,Red wine,Italy,€26.20,48.5632%,57.0501%,7.42736%,63.6798%,Beef
+797,Barbera d'Alba,Barbera,4.2,90 ratings,Red wine,Italy,€15.90,57.8903%,30.0711%,5.56214%,66.8117%,Beef
+798,Carapace Montefalco Sagrantino,Sagrantino,4.2,89 ratings,Red wine,Italy,€22.50,60.4445%,56.8342%,5.42688%,47.431%,Beef
+799,Lourens River Valley,Blend,4.2,89 ratings,Red wine,South Africa,€22,65.2441%,48.5291%,7.38371%,57.514%,Beef
+800,San Placido Faro,Nero d'Avola,4.2,89 ratings,Red wine,Italy,€28.61,,,,,Beef
+801,Lorano,Sangiovese,4.2,87 ratings,Red wine,Italy,€21.80,52.3729%,42.0932%,13.3567%,48.865%,Beef
+802,Villányi Franc,Cabernet Franc,4.2,87 ratings,Red wine,Hungary,€26.85,,,,,Beef
+803,Ventoux Quintessence Rouge,Blend,4.2,87 ratings,Red wine,France,€17.70,68.6102%,48.5683%,8.74235%,52.1126%,Beef
+804,Rossini Conero Riserva,Montepulciano,4.2,86 ratings,Red wine,Italy,€29,64.5879%,55.0632%,6.97747%,45.9814%,Beef
+805,Klanis Syrah,Shiraz/Syrah,4.2,86 ratings,Red wine,Italy,€29.90,55.7577%,47.4623%,13.7815%,48.672%,Beef
+806,Amarone della Valpolicella,Blend,4.2,86 ratings,Red wine,Italy,€28.16,82.5106%,39.6177%,22.3545%,43.9246%,Beef
+807,Nebbiolo,Nebbiolo,4.2,84 ratings,Red wine,Italy,€22.80,62.3665%,51.3645%,10.9993%,45.61%,Beef
+808,I Tre Borri Toscana Rosso,Sangiovese,4.2,82 ratings,Red wine,Italy,€29.90,47.5592%,48.7686%,,,Beef
+809,Majano Barbera d'Alba,Barbera,4.2,82 ratings,Red wine,Italy,€20.90,55.9249%,20.4842%,7.33575%,63.7517%,Beef
+810,Amarone della Valpolicella Classico,Blend,4.2,81 ratings,Red wine,Italy,€22.90,,,,,Beef
+811,Valle Cupa Salento,Negroamaro,4.2,81 ratings,Red wine,Italy,€22.50,84.3634%,44.566%,36.0125%,25.8446%,Beef
+812,NeroMàccarj,Nero d'Avola,4.2,80 ratings,Red wine,Italy,€29,81.1269%,44.1766%,26.9161%,30.0923%,Beef
+813,Entu,Blend,4.2,79 ratings,Red wine,Italy,€29,82.8607%,41.0869%,21.8107%,33.6822%,Beef
+814,Vigna alla Sughera Sangiovese,Sangiovese,4.2,78 ratings,Red wine,Italy,€23.99,48.1566%,42.6007%,12.9296%,51.376%,Beef
+815,Jaddico Brindisi Riserva,Blend,4.2,77 ratings,Red wine,Italy,€17.60,77.2138%,40.8843%,26.2539%,24.2495%,Beef
+816,Brunello di Montalcino,Sangiovese,4.2,77 ratings,Red wine,Italy,€23.50,48.9346%,59.125%,1.54866%,64.2885%,Beef
+817,Primitivo,Primitivo,4.2,78 ratings,Red wine,Italy,€7.69,66.0695%,18.9424%,41.3621%,10.9597%,Beef
+818,Villa Santera Primitivo di Manduria,Primitivo,4.2,76 ratings,Red wine,Italy,€12.90,67.7665%,22.5702%,44.1629%,12.9893%,Beef
+819,Vigna Gallina Barbera d'Alba Superiore,Barbera,4.2,75 ratings,Red wine,Italy,€21.40,54.8531%,25.9119%,9.63081%,63.5919%,Beef
+820,Vega,Blend,4.2,74 ratings,Red wine,Italy,€16.90,84.6803%,41.4127%,32.5901%,21.3026%,Beef
+821,Primitivo Appassimento,Primitivo,4.2,73 ratings,Red wine,Italy,€15.90,70.1137%,21.942%,52.9977%,13.2412%,Beef
+822,Castel Normanno Contea di Sclafani,Sangiovese,4.2,73 ratings,Red wine,Italy,€21.20,77.4696%,35.1678%,22.1788%,38.5563%,Beef
+823,Paritaru Negroamaro,Negroamaro,4.2,73 ratings,Red wine,Italy,€11.80,79.4214%,43.6929%,35.5786%,33.8071%,Beef
+824,NeroMàccarj,Nero d'Avola,4.2,72 ratings,Red wine,Italy,€27.50,81.1269%,44.1766%,26.9161%,30.0923%,Beef
+825,Fico Susumaniello,Susumaniello,4.8,27 ratings,Red wine,Italy,€24.90,75.8029%,36.3297%,31.3312%,24.9804%,Beef
+826,60 Sessantanni Old Vines Primitivo di Manduria,Primitivo,4.5,15959 ratings,Red wine,Italy,€22.90,69.663%,22.9146%,46.7775%,12.1954%,Beef
+827,Limited Edition 10 Vendemmie,Montepulciano,4.5,8893 ratings,Red wine,Italy,€24.30,50.6136%,36.753%,19.4152%,59.7082%,Beef
+828,Fanova Riserva,Primitivo,4.5,135 ratings,Red wine,Italy,€17.40,79.3122%,38.7329%,30.1212%,31.5391%,Beef
+829,Amarone della Valpolicella Classico,Blend,4.5,57 ratings,Red wine,Italy,€27.70,,,,,Beef
+830,Guerriero della Terra,Blend,4.5,41 ratings,Red wine,Italy,€24.90,59.5447%,34.6501%,39.1743%,39.3046%,Beef
+831,Nizza DOCG,Barbera,4.5,33 ratings,Red wine,Italy,€20,63.1152%,32.4413%,2.22174%,43.1739%,Beef
+832,Lucretia Chianti Classico Riserva,Sangiovese,4.5,33 ratings,Red wine,Italy,€26,52.5077%,69.8093%,3.2835%,67.7371%,Beef
+833,Primitivo Salento,Primitivo,4.4,2308 ratings,Red wine,Italy,€18.40,68.2177%,21.1277%,47.6472%,9.69191%,Beef
+834,Guerriero della Terra,Blend,4.4,1421 ratings,Red wine,Italy,€24.95,59.5447%,34.6501%,39.1743%,39.3046%,Beef
+835,Papale Linea Oro Primitivo di Manduria,Primitivo,4.4,1284 ratings,Red wine,Italy,€22.97,68.0154%,22.1595%,43.9264%,12.2737%,Beef
+836,60 Sessantanni Old Vines Primitivo di Manduria,Primitivo,4.4,874 ratings,Red wine,Italy,€23.65,69.663%,22.9146%,46.7775%,12.1954%,Beef
+837,60 Sessantanni Limited Edition Old Vines Primitivo di Manduria,Primitivo,4.4,445 ratings,Red wine,Italy,€27.30,69.4106%,19.7336%,45.9759%,11.1998%,Beef
+838,Liala Negroamaro,Negroamaro,4.4,249 ratings,Red wine,Italy,€23.86,82.4346%,30.3049%,40.8946%,26.0213%,Beef
+839,Cavolo Amarone della Valpolicella,Blend,4.4,238 ratings,Red wine,Italy,€29.89,80.3493%,24.82%,45.7862%,29.1761%,Beef
+840,Primitivo di Manduria,Primitivo,4.4,221 ratings,Red wine,Italy,€29.90,72.0229%,25.4231%,45.3349%,12.2387%,Beef
+841,Il Bacca Old Vine Primitivo di Manduria,Primitivo,4.4,172 ratings,Red wine,Italy,€26.90,68.7786%,26.5763%,43.1435%,13.4977%,Beef
+842,Valpolicella Ripasso Classico Superiore,Blend,4.4,155 ratings,Red wine,Italy,€18.90,66.9617%,38.5803%,33.5744%,26.9165%,Beef
+843,Amarone della Valpolicella,Blend,4.4,145 ratings,Red wine,Italy,€22,,,,,Beef
+844,Paradoxe,Blend,4.4,126 ratings,Red wine,France,€29.90,70.215%,51.281%,16.1654%,56.0027%,Beef
+845,L'Invidio Bolgheri Rosso,Blend,4.4,114 ratings,Red wine,Italy,€17.84,60.1444%,54.468%,9.33844%,46.36%,Beef
+846,Vrucara Nero d'Avola,Nero d'Avola,4.4,94 ratings,Red wine,Italy,€29.99,,,,,Beef
+847,Saracena Primitivo,Primitivo,4.4,92 ratings,Red wine,Italy,€12.20,69.0389%,21.306%,44.0903%,11.5374%,Beef
+848,Mirea Primitivo di Manduria,Primitivo,4.4,85 ratings,Red wine,Italy,€19.20,75.7944%,23.1862%,46.0661%,11.5096%,Beef
+849,I Colli Chianti Classico Riserva,Sangiovese,4.4,76 ratings,Red wine,Italy,€25.89,46.9102%,59.2303%,8.41216%,60.5772%,Beef
+850,Lodolaio Chianti Classico Riserva,Sangiovese,4.4,63 ratings,Red wine,Italy,€27.90,51.3399%,56.0718%,2.45419%,64.1281%,Beef
+851,Ventoux Silica,Blend,4.4,39 ratings,Red wine,France,€28.80,66.6473%,55.7554%,17.1575%,53.7446%,Beef
+852,Taurasi,Aglianico,4.4,29 ratings,Red wine,Italy,€24.90,,,,,Beef
+853,Nauna Primitivo - Negroamaro,Blend,4.4,29 ratings,Red wine,Italy,€18.20,84.5756%,42.3456%,32.0935%,26.7716%,Beef
+854,Iroso,Blend,4.4,28 ratings,Red wine,Italy,€26.50,50.5798%,34.0946%,2.34496%,37.0114%,Beef
+855,Brunello di Montalcino,Sangiovese,4.4,25 ratings,Red wine,Italy,€26.90,47.3318%,61.6828%,,,Beef
+856,Edizione Cinque Autoctoni,Sangiovese,4.3,63676 ratings,Red wine,Italy,€23.99,70.9731%,38.254%,30.4642%,31.5104%,Beef
+857,Cinquanta Collezione,Negroamaro,4.3,36355 ratings,Red wine,Italy,€18.30,,,,,Beef
+858,F Negroamaro,Negroamaro,4.3,1627 ratings,Red wine,Italy,€22.40,,,,,Beef
+859,Amaranta Montepulciano d'Abruzzo,Montepulciano,4.3,1270 ratings,Red wine,Italy,€16.70,44.2605%,38.0908%,15.1877%,61.08%,Beef
+860,Villa Donoratico Bolgheri,Blend,4.3,1207 ratings,Red wine,Italy,€28.90,66.3117%,67.4043%,10.6418%,54.2565%,Beef
+861,Cubardi Primitivo,Primitivo,4.3,790 ratings,Red wine,Italy,€15.29,70.0622%,24.7168%,40.9466%,16.0506%,Beef
+862,Elena La Luna Barbera d'Alba,Barbera,4.3,710 ratings,Red wine,Italy,€19.90,62.434%,20.7051%,18.7754%,59.5645%,Beef
+863,Gran Reserva,Malbec,4.3,653 ratings,Red wine,Argentina,€26.10,,,,,Beef
+864,Harmonium Nero d'Avola,Nero d'Avola,4.3,632 ratings,Red wine,Italy,€27.50,83.9091%,44.8476%,28.109%,29.0225%,Beef
+865,Amarone della Valpolicella Classico,Blend,4.3,566 ratings,Red wine,Italy,€23.90,,,,,Beef
+866,62 Anniversario Primitivo di Manduria Riserva,Primitivo,4.3,562 ratings,Red wine,Italy,€27.20,69.8162%,21.1846%,44.7865%,11.1896%,Beef
+867,Stilio Primitivo di Manduria,Primitivo,4.3,559 ratings,Red wine,Italy,€11.50,70.0308%,21.6412%,45.8288%,13.204%,Beef
+868,La Groletta Amarone della Valpolicella,Blend,4.3,511 ratings,Red wine,Italy,€27.95,82.4305%,26.5422%,47.4486%,25.8193%,Beef
+869,8 Limited Edition,Montepulciano,4.3,396 ratings,Red wine,Italy,€24.40,66.0248%,43.9257%,11.2723%,37.5099%,Beef
+870,Eremo San Quirico Gold,Aglianico,4.3,391 ratings,Red wine,Italy,€18.95,84.5764%,36.89%,40.694%,22.8539%,Beef
+871,Amarone della Valpolicella Classico Lena di Mezzo,Blend,4.3,381 ratings,Red wine,Italy,€27.90,,,,,Beef
+872,Pecoranera Rosso,Nero di Troia,4.3,381 ratings,Red wine,Italy,€11.90,77.7367%,31.5385%,47.8988%,26.4048%,Beef
+873,Paralupi Appassimento,Blend,4.3,341 ratings,Red wine,Italy,€12.90,,,,,Beef
+874,Amarone della Valpolicella Classico,Corvina,4.3,329 ratings,Red wine,Italy,€26,84.8999%,26.0792%,44.3067%,26.3776%,Beef
+875,Antièri Susumaniello,Susumaniello,4.3,318 ratings,Red wine,Italy,€16.40,80.5437%,38.5272%,39.5557%,30.7997%,Beef
+876,Gocce Primitivo di Manduria,Primitivo,4.3,302 ratings,Red wine,Italy,€29.80,67.2456%,22.4184%,50.5186%,11.3384%,Beef
+877,Visellio Primitivo,Primitivo,4.3,287 ratings,Red wine,Italy,€24.99,68.7614%,25.1765%,42.8458%,13.3965%,Beef
+878,Primitivo di Manduria Riserva,Primitivo,4.3,279 ratings,Red wine,Italy,€11.99,69.6118%,20.7974%,44.1206%,17.5456%,Beef
+879,Primitivo,Primitivo,4.3,269 ratings,Red wine,Italy,€14.19,67.3913%,22.4108%,43.6897%,16.479%,Beef
+880,17 Primitivo Gioia del Colle,Primitivo,4.3,253 ratings,Red wine,Italy,€29.90,70.2069%,24.9263%,39.9504%,15.0855%,Beef
+881,Cosimo Varvaglione Collezione Privata Negroamaro del Salento,Negroamaro,4.3,245 ratings,Red wine,Italy,€29.80,76.7037%,36.9437%,29.2564%,32.1497%,Beef
+882,Sonetto Primitivo di Manduria Riserva,Primitivo,4.3,232 ratings,Red wine,Italy,€29.50,67.2201%,27.534%,39.724%,13.5343%,Beef
+883,Alchymia Primitivo,Primitivo,4.3,233 ratings,Red wine,Italy,€12.70,67.3408%,20.8559%,46.7771%,12.3789%,Beef
+884,Susu' Susumaniello,Susumaniello,4.3,220 ratings,Red wine,Italy,€11.40,76.705%,32.2948%,43.7405%,20.4377%,Beef
+885,Elegia Primitivo di Manduria Riserva,Primitivo,4.3,216 ratings,Red wine,Italy,€15.90,67.8678%,26.7458%,46.2798%,15.4155%,Beef
+886,San Giorgio Amarone della Valpolicella,Blend,4.3,176 ratings,Red wine,Italy,€19.99,,,,,Beef
+887,Borgo dei Guidi Sangiovese - Cabernet Sauvignon,Blend,4.3,160 ratings,Red wine,Italy,€19.90,65.2195%,40.8662%,26.1229%,,Beef
+888,Ilmorante Primitivo di Manduria,Primitivo,4.3,155 ratings,Red wine,Italy,€17,74.5738%,22.7912%,51.925%,11.1669%,Beef
+889,Altemura Primitivo di Manduria,Primitivo,4.3,155 ratings,Red wine,Italy,€20.70,67.5797%,28.3509%,39.8101%,19.1283%,Beef
+890,L’Arringatore,Blend,4.3,153 ratings,Red wine,Italy,€26.50,55.2245%,45.6655%,6.81133%,50.3032%,Beef
+891,Toppicello Nero di Troia,Nero di Troia,4.3,129 ratings,Red wine,Italy,€20.90,,,,,Beef
+892,Amarone della Valpolicella Classico Riserva,Blend,4.3,129 ratings,Red wine,Italy,€29.99,71.1875%,28.6719%,43.0156%,34.3438%,Beef
+893,Gelso d'Oro Nero di Troia,Nero di Troia,4.3,108 ratings,Red wine,Italy,€20.95,84.4944%,37.2695%,36.7208%,24.8084%,Beef
